@@ -1,0 +1,380 @@
+# The danger you have to see first
+
+*Titanic · 14 April 1912 · Decision-forcing case*
+
+At five minutes to nine in the evening, Captain Edward Smith comes onto the bridge.
+
+The temperature has fallen to one degree above freezing. There is no wind. Second Officer
+Charles Lightoller describes the sea as flat calm. According to his later testimony, the two
+men discuss the ice reported ahead and how a berg might show itself in the dark. Without a
+breeze, there will be no water breaking visibly at its base. They expect reflected light or a
+white outline to provide warning instead.
+
+The sky is clear and full of stars. No ice has yet been sighted.
+
+The ship continues at about 22 knots.
+
+## Role card
+
+- **You are:** Captain Edward Smith, master of *Titanic*.
+- **Objective:** Complete a safe and timely Atlantic crossing.
+- **Clock:** Darkness now; the bridge expects to reach the reported ice region during this
+  watch.
+- **Primary resource:** Passage time spent to gain detection and manoeuvre margin.
+- **Authority:** You may reduce speed, alter course or maintain the present navigation.
+- **Constraint:** Ice reports give positions, not a continuous map. Some are hours old, ice
+  moves, and no object has been seen from the ship.
+
+Smith did not survive. This choice screen uses the bridge record, not an account of his
+thoughts.
+
+## What is on the table
+
+### Known
+
+- The *Caronia* message received by Smith at 9 a.m. reports bergs, growlers and field ice
+  between 49° and 51° west in latitude 42° north. The sightings were two days old.
+- The *Baltic* message received at 1:42 p.m. reports icebergs and large quantities of field
+  ice seen that day at 41° 51' north, 49° 52' west. Smith has acknowledged it.
+- A further message, picked up at 7:30 p.m. from *Californian* to *Antillian*, reports three
+  large bergs near 42° 3' north, 49° 9' west. The surviving wireless operator later says he
+  delivered it to the bridge but cannot remember to which officer.
+- The ship is making about 22 knots, below its possible maximum but without a material
+  reduction for ice.
+- The night is clear and moonless. The temperature is near freezing. There is no wind and
+  the sea appears smooth.
+- Lookouts can be warned to watch particularly for small ice and growlers. Officers can also
+  watch from the bridge.
+- In clear weather, contemporary North Atlantic liner practice is to maintain course and
+  speed near reported ice and rely on a sharp lookout. Lightoller later says he has never
+  known a ship to reduce speed for ice in clear weather.
+
+### Reasonably inferable
+
+- Ice may be encountered during the night even if none of the reported coordinates predicts
+  the exact collision point.
+- A flat sea removes one useful visual cue: water breaking around the base of a berg.
+- At the present speed, a late sighting leaves little time to turn or stop a ship of this
+  size.
+- A large deviation or material reduction buys margin at the cost of arrival time, without
+  guaranteeing a clear route.
+
+### Possible
+
+- The reported ice has drifted away from the course or the ship will pass between isolated
+  bergs without seeing one.
+- As Lightoller later recalled his discussion with Smith, a berg might reflect enough light
+  to be seen at a useful distance.
+- The same calm that makes the sea appear benign will make a berg harder to distinguish.
+- Another report may locate the ice more precisely.
+
+### Unknown
+
+- The position, shape, colour and density of ice directly ahead.
+- The distance at which the lookouts will detect a berg under these exact conditions.
+- The ship's demonstrated turning or stopping performance after a night sighting at this
+  speed. The inquiry heard that no trial of the relevant full-speed engine manoeuvre had
+  been made.
+- Whether a material reduction or a southern alteration will avoid a collision rather than
+  merely change it.
+- A 9:40 p.m. message from *Mesaba* reports heavy pack ice and many large icebergs across
+  the ship's immediate route. It reaches the wireless room but, the inquiry later finds, not
+  the bridge. You do not get to use it here.
+
+### Unknowable from the surviving record
+
+- Smith's private estimate of the danger.
+- Whether prestige, schedule or any consideration absent from the bridge evidence affected
+  him.
+- What Smith would have done if the *Mesaba* message had reached him.
+
+## The decision
+
+This chapter selects the evening watch as the final well-reconstructed gate before the
+emergency, not the earliest reversible choice. At the 5:50 p.m. turn onto the westward
+course, a more southerly track remained an alternative. By 8:55, the bridge still controls
+course and speed, but changing either carries a more immediate cost.
+
+Three options are genuinely available.
+
+### A. Maintain course and speed with customary precautions
+
+The weather is clear, no ice has been sighted, and this is established professional
+practice. Warn the crow's nest, close the forward scuttle so the view ahead remains dark,
+and require the bridge officers to watch for any haze or change in the sea. Reconsider if
+haze appears or ice is seen.
+
+This preserves the passage but makes safety depend on detection arriving before the ship
+consumes its manoeuvre margin.
+
+### B. Reduce speed materially through the reported region
+
+This accepts a later arrival to increase the interval between sighting and contact.
+Reconsider after daylight or after clearing the reported longitudes.
+
+This does not supply the missing ice map. Slower is not the same as safe.
+
+### C. Stand farther south
+
+Alter away from the reported field rather than wait to see it. Reconsider after receiving
+new positions or reaching a southern track judged clear.
+
+This buys separation from reported coordinates, not from all ice. It requires a larger
+departure from the planned track and could move the ship toward unreported danger.
+
+**What do you do? What fact would make you change your answer?**
+
+Commit before continuing. “Keep a good lookout” is not a complete answer unless you can
+state how much warning it must deliver and what evidence shows that it can.
+
+## What happened
+
+At about 9:30 p.m., after Smith left the bridge, Lightoller sent word to the crow's nest to
+keep a sharp lookout for ice, especially small ice and growlers. At 10 p.m. he handed the
+watch to First Officer William Murdoch and told him that the ship was within the reported
+ice region. No order reduced speed.
+
+Shortly before 11:40, lookout Frederick Fleet struck three blows on the gong and telephoned
+the bridge: iceberg right ahead. Almost simultaneously, according to the British report,
+Murdoch ordered the helm hard over, stopped and reversed the engines, and closed the
+watertight doors below.
+
+The report did not possess an independent measurement of the sighting distance. It worked
+backward from manoeuvring experiments with *Olympic*, *Titanic*'s sister ship: at the same
+speed, turning two compass points took about 37 seconds and covered 466 yards. After
+allowing a few seconds for the order, the court inferred that the iceberg had been sighted
+at about 500 yards. The distance and interval are therefore parts of one reconstruction,
+not two measurements that happen to corroborate each other. *Titanic* turned, but not far
+enough. The iceberg opened the starboard side to the sea across several forward
+compartments.
+
+The officers understood within roughly fifteen to twenty minutes that the ship could not
+remain afloat. The first distress calls went out; rockets were fired; passengers were
+roused; boats were uncovered and swung out. The ship foundered at about 2:20 a.m., two
+hours and forty minutes after the collision. *Carpathia* recovered 712 people from the
+boats. The British inquiry recorded 1,490 deaths.
+
+The detection-and-avoidance system failed that night. The outcome does not by itself settle
+the earlier decision's quality.
+
+## The people who inherited the margin
+
+Murdoch inherited the first downstream decision. His warning did not arrive as a
+probability or an ice chart. It arrived as an object close ahead.
+
+He could turn, change the engines and close the watertight doors. The inquiry judged his
+measures proper and prompt. That execution judgement does not validate the upstream
+navigation decision. By then, the remaining resource was measured in seconds.
+
+The boat-deck officers inherited a different shortage.
+
+There were 2,201 people aboard. The twenty boats had rated accommodation for 1,178. The
+British inquiry found that the ship complied with the applicable Board of Trade
+requirements, whose scale was itself inadequate for a ship of this size. White Star's
+compliant provision therefore still left 1,023 people without a rated place. Even perfect
+loading could not save everyone. Nor had the crew held a proper full muster and boat drill
+on the voyage. Some crew members did not know their assigned boats.
+
+The officers still had real choices. Early in the evacuation, the deck stood about 65 feet
+above the water. Some passengers judged the large, electrically lit ship safer than a small
+boat lowered into darkness. Officers were uncertain whether boats filled to rated capacity
+would buckle while suspended. One plan was to lower boats partially filled and take more
+people aboard through gangway doors nearer the waterline. The doors were not opened and
+the transfer did not occur.
+
+So the local decision was ugly: keep a boat at the rail longer and load it more fully, while
+the time remaining is uncertain; or lower it now with empty places, preserving that boat
+but betting that a later loading step will work.
+
+At least eight boats left below capacity. The inquiry estimated that only about 652 people
+left *Titanic* in the launched boats, an average of roughly 36 per boat. It praised the
+officers' discipline and effort while concluding that better organisation might have saved
+more people.
+
+Three layers should not be collapsed. The statutory boat scale permitted insufficient
+capacity. White Star sailed with a compliant provision of 1,178 rated places for 2,201
+people. Then the absence of a proper muster and drill made loading those places harder.
+Courage on the boat deck was real, but the officers after midnight could not change the
+first two constraints. Their preparation, loading and launching decisions determined how
+much of the available capacity was used.
+
+## Where did the failure become likely?
+
+The iceberg made failure visible. The navigation decision made one kind of failure more
+likely: a danger that remained unseen until avoidance time was almost gone.
+
+- **Decision quality:** Maintaining about 22 knots was consistent with established
+  clear-weather practice. It was nevertheless weak because the safeguard—visual
+  detection—had no demonstrated margin under a moonless flat calm, and the bridge knew the
+  absence of breaking water removed a detection cue.
+- **Execution quality:** Once the iceberg was reported, the inquiry found Murdoch's actions
+  proper and prompt. During evacuation, individual performance was often disciplined and
+  courageous, but organisation, rehearsal and loading were deficient.
+- **Outcome quality:** Catastrophic. This does not convert every preceding choice into a
+  cause. More boats would not have prevented the collision; a different helm order would
+  not make the original speed reasonable or unreasonable.
+
+The 5:50 turn was not made in response to the ice reports, the court found. Standing farther
+south then was the earlier reversible alternative. The evening choice is the selected final
+gate because its warnings, weather, sea state and remaining controls can be reconstructed
+together.
+
+## Competing diagnoses
+
+### Diagnosis 1: speed consumed the detection margin
+
+The British court adopted this diagnosis. It found the speed excessive and identified two
+available precautions: stand well south or reduce materially as night approached. The
+ship instead depended on a lookout seeing ice soon enough to avoid it.
+
+The report found that Smith was not trying to make a record or an exceptionally quick
+passage and rejected the claim that Ismay induced the navigation.
+
+### Diagnosis 2: reasonable practice met an exceptional detection failure
+
+The court accepted that liners had long maintained speed near ice in clear weather, trusted
+a sharp lookout and apparently done so without casualty. Lightoller called that ordinary
+careful navigation. He later suggested that the absent swell and the iceberg's visible face
+helped explain the late sighting, but the record cannot establish its appearance before
+detection.
+
+The court called Smith's action a grievous mistake but declined to brand it negligent by
+the standards and experience available to him. An accepted, professionally defensible
+practice can still rest on an unmeasured margin.
+
+### Diagnosis 3: collision became mass death through a separate recovery failure
+
+The inadequate statutory scale and White Star's compliant provision fixed maximum rated
+capacity. Absent drill, loading uncertainty and empty seats then affected survival. This
+explains much of the human bill, but not the late start of evasive action. Collision
+prevention and evacuation deserve separate verdicts.
+
+## Analytical stress test: halve the speed
+
+This is an analytical stress test, not a historical finding or prediction. Hold the
+encounter geometry fixed: the same collision course, iceberg position and detection point.
+That is artificial because speed could change when and where ship and ice met. It isolates
+speed's effect on warning time; do not assume the ship stops.
+
+At half speed, the court's inferred 500 yards supplies about 82 rather than 41 seconds.
+Turning response would not remain identical; ship handling changes with speed, and the
+inquiry did not reproduce this alternative. Collision can still occur.
+
+The problem changes in degree, not kind. Murdoch gets more time for helm and engine actions,
+but the bridge still depends on visual detection. Contact may still occur; the calculation
+cannot establish its geometry or damage, and restores no independent safeguard.
+
+What it can test is the decision logic. If safety depends on the lookout winning a race
+against closing distance, speed is not merely a schedule choice. It sets how much warning
+the safeguard must produce. The test supports a change-in-degree conclusion, not a claim
+that half speed would have prevented the disaster.
+
+## Judgement
+
+**Best-supported diagnosis: a decision failure embedded in accepted practice, with
+moderate-to-high confidence.**
+
+Maintaining speed was not an irrational departure from 1912 seamanship. Experience had
+certified the practice through uneventful crossings without demonstrating its margin in
+every clear-weather condition. The court's reconstruction placed detection late enough
+that the turn was incomplete before contact.
+
+The binocular story does not repair this diagnosis. The British court found that lookouts
+had no binoculars, but also answered that their use was neither necessary nor usual in
+these circumstances. Nor does an “unsinkable” slogan establish what Smith knew or why he
+maintained speed. The stronger explanation requires neither myth.
+
+## Where this stops being true
+
+Maintaining speed near a possible hazard can be reasonable when:
+
+- detection performance is demonstrated in the conditions actually present;
+- warning arrives with a measured margin over diagnosis and response time;
+- an independent protection remains effective if detection is late;
+- the consequence is recoverable;
+- new observations trigger a clear reduction or stop rule.
+
+A hospital cannot slow every patient pathway because a rare complication is possible. A
+network operator cannot shut down at every anomalous packet. Conservatism without a
+threshold merely transfers a different cost. The recommendation reverses when the warning
+margin is known, positive and protected against the condition that creates the hazard.
+
+## What transfers
+
+A warning system is not a safeguard merely because it eventually reports the truth. Ask:
+
+> At the first reliable warning, how much response time remains—and has the response been
+> demonstrated inside that interval?
+
+If the answer depends on noticing trouble “in time,” translate *in time* into minutes,
+cycles, metres or cash runway. Then name the condition that makes detection slower.
+
+### What does not transfer
+
+The choice does not teach modern ship handling, ice navigation or evacuation command. Nor
+does it prove that slowing is always safer. Those depend on vessel, sea, traffic and current
+procedures. The transferable object is the relationship between detection time and response
+time, not the visible surface of a 1912 bridge decision.
+
+### Solo-actionable version
+
+For one control you personally rely on, write:
+
+`warning time − diagnosis time − response time = remaining margin`
+
+If you cannot estimate one term, label it **unknown**. Do not silently count an unknown as
+positive margin.
+
+## Field exercise
+
+Choose three monitoring controls you encounter over the next week: an alert, review gate,
+budget threshold, deadline warning, health signal or quality check.
+
+For each one:
+
+1. Mark the first observable warning.
+2. Record the time or cycles remaining before the consequence becomes difficult to reverse.
+3. Record the time actually needed to diagnose and respond.
+4. Name one condition that degrades detection.
+5. Classify each margin as **positive**, **zero**, **negative** or **unknown**. For every
+   zero, negative or unknown margin, record one action under your control: reduce load, add
+   a second control, test the assumption, escalate or stop.
+6. If a control falls short, separately classify the cause as **decision**, **execution**
+   or **uncertain**.
+
+**Pass condition:** all three controls have a complete margin classification, and every
+zero, negative or unknown margin has a recorded action. A positive margin counts as
+demonstrated only if the control was actually exercised or tested.
+
+**Review condition:** if the alert never fires, do not call the control successful. Record
+it as untested and therefore unknown. Ask what evidence would distinguish a reliable margin
+from an inherited assumption.
+
+## Receipts
+
+- British Wreck Commissioner's Inquiry, [Lightoller testimony, questions
+  13,600–13,633](https://www.titanicinquiry.org/BOTInq/BOTInq11Lightoller02.php): the
+  bridge conversation about cold, calm, visibility and ice; questions 14,197–14,209 give
+  Lightoller's capsized-berg hypothesis. Local transcript in
+  [`sources/04-titanic/british-inquiry.pdf`](../sources/04-titanic/british-inquiry.pdf),
+  printed pp. 306–307 and 346–347.
+- British Wreck Commissioner's Inquiry, [messages received](https://www.titanicinquiry.org/BOTInq/BOTReport/botRepMessages.php): which warnings reached Smith or the bridge, which did not, and the route in relation to reported positions.
+- British Wreck Commissioner's Inquiry, [speed](https://www.titanicinquiry.org/BOTInq/BOTReport/botRepSpeed.php), [collision reconstruction](https://www.titanicinquiry.org/BOTInq/BOTReport/botRepCollision.php) and [action available](https://www.titanicinquiry.org/BOTInq/BOTReport/botRepAction.php): about 22 knots, the estimated sighting distance and turn interval, contemporary clear-weather practice, alternative actions and the court's treatment of Smith and Ismay.
+- British Wreck Commissioner's Inquiry, [findings of the Court](https://www.titanicinquiry.org/BOTInq/BOTReport/botRepFindings.php), questions 5 and 9–25: lookout, binoculars, avoidance action, speed, damage, rescue, deaths and equipment.
+- British Wreck Commissioner's Inquiry, [the boats](https://www.titanicinquiry.org/BOTInq/BOTReport/BOTRepBoats.php): capacity, absence of a proper drill, launch sequence, loading uncertainty and the court's evaluation of organisation and conduct.
+- British Wreck Commissioner's Inquiry, [crew and passengers](https://www.titanicinquiry.org/BOTInq/BOTReport/botRepCrewpax.php) and [rescue by *Carpathia*](https://www.titanicinquiry.org/BOTInq/BOTReport/botRepRescue.php): population aboard and people recovered.
+- Access and reuse status: the inquiry text is freely readable and downloadable through the
+  Titanic Inquiry Project. The 1912 British report is public-domain source material; the
+  modern transcription and PDF compilation should be treated as quotation-only unless the
+  site's reproduction terms are confirmed.
+- Source-risk note: the local packet contains the British inquiry hearing transcript, but
+  not a locally archived copy of the final-report pages used for several findings. The
+  American Senate testimony—the main contemporary adversarial record—is also remote-only
+  in this workspace. Archive and paginate both before publication, then recheck every claim
+  that depends on those web copies. *(CHECK: source capture.)*
+
+*This chapter teaches the reader to test whether a detection control provides enough time
+for its response. It does not teach reliance on rapid human diagnosis after an automated
+system acts; that belongs to Boeing 737 MAX.*
+
+> Before somebody has to be brave, where is the last reversible decision?

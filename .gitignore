@@ -1,0 +1,8 @@
+# Research copies are not publication assets. Free access does not establish reuse rights.
+sources/**/*.pdf
+sources/**/*.html
+sources/**/*.txt
+sources/**/*.rtf
+sources/**/*.zip
+sources/**/*.epub
+

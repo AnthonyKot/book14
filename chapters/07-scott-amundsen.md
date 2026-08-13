@@ -1,0 +1,154 @@
+# Four ways to move a sledge
+
+*Scott and Amundsen · 1909–1912 · Dual decision-forcing case*
+
+In September 1909 a telegram reaches Norway: the North Pole has been claimed. Roald Amundsen has spent years raising money for an Arctic drift in the *Fram*. He decides to redirect the expedition south and tells almost nobody. In London, Robert Falcon Scott is assembling a different machine: a ship, a hut, laboratories, scientists, experimental motor sledges, ponies, dogs, skiers and men trained to haul.
+
+Nothing has failed yet. No party is stranded. The consequential choice is being made in offices, shipyards and hiring rooms, while each purchase and each month of training hardens the architecture.
+
+This case deals two hands. Do not share their cards.
+
+## The hand you are dealt — twice
+
+**Hand one: Scott, 1909–1910.** You lead a British national expedition with two public objectives: a large scientific programme and the Pole. McMurdo Sound serves the science and provides a known route through the Beardmore Glacier. Money is tight. Your personnel are principally naval and scientific; man-hauling is familiar. Shackleton has recently returned from 88°23′ S after using ponies across the Barrier and men beyond. Your proposed transport portfolio includes three experimental motors, ponies, dogs and human hauling.
+
+**Hand two: Amundsen, September 1909.** Your intended North Pole expedition has lost much of its purpose. You still have the *Fram*, financial obligations and a crew selected for polar travel. You can redirect south, but secrecy protects the plan at the cost of scrutiny. Your objective can be narrower than Scott's. You have extensive experience with skis and dogs and can recruit around that system. Your Antarctic base and route remain untested.
+
+For either hand:
+
+- **Clock:** months. The ships must sail in 1910.
+- **Primary resource:** preparation time spent to create transport margin.
+- **Authority:** personnel, equipment, training and operating doctrine.
+- **Constraint:** competence unavailable at departure cannot be bought on the ice.
+
+## Two evidence ledgers
+
+### Scott's ledger
+
+**Known.** Shackleton's mixed system had come close and returned. Ponies could move substantial loads but required fodder and fixed the start season. Dogs had polar precedent, but British skill with dogs and skis was uneven. Motors promised depot-hauling power without fodder, but had not been proved in Antarctica. The expedition also had scientific work and a fixed coastal programme to support.
+
+**Reasonably inferable.** Four transport modes meant four kinds of equipment, pace, food and competence. Each handoff could transfer an upstream shortfall to the next stage. The planned terminal stage—men hauling from the glacier toward the Pole—would operate farthest from help.
+
+**Unknown.** Whether the motors would work; how the purchased animals would perform; whether expert dog drivers could be recruited in sufficient numbers; autumn Barrier weather; the location and design of any rival expedition.
+
+### Amundsen's ledger
+
+**Known.** The North Pole claims threatened the original objective. The *Fram* and much of the expedition remained available. Dogs and skis formed one system that several intended participants already knew. A smaller, single-purpose party could move differently from a national scientific expedition.
+
+**Reasonably inferable.** Specialization could buy speed and simplify handoffs, but it would concentrate risk. A Barrier base farther south could shorten the route if the ice held. Heavy depots and wide markings could buy margin on the return.
+
+**Unknown.** Whether the Bay of Whales ice was a safe winter base; whether an unknown route through the mountains existed; how Scott would travel; whether secrecy would damage trust when the destination was revealed.
+
+### What neither could know
+
+Neither planner knew the other system's final staffing, doctrine or depot geometry. Neither knew the weather of February and March 1912. Neither could observe in advance which small execution failures would combine. Their later outcomes do not belong on this screen.
+
+## The decision
+
+Three designs are plausible in 1909. They are not equally available to both hands.
+
+**A. Specialize.** Build around dogs and skis. Recruit operators as carefully as navigators, rehearse the complete system and design depots, route, season and animal attrition around it. The gain is mastery and coherence. The exposure is concentrated: if the route defeats dogs, the base fails or qualified operators cannot be hired, there is no independent transport system underneath.
+
+**B. Stage several modes.** Use motors and animals across the Barrier, then men for the glacier and plateau. A single component failure need not cancel the expedition. The exposure is cumulative: every early shortfall lands on a later stage, and the last stage is people. Diversity of equipment does not guarantee diversity of competence.
+
+**C. Change the objective.** Preserve the scientific programme but narrow the polar attempt, change the base, reduce parallel commitments or demand a larger depot margin before proceeding. This buys slack by surrendering part of the promise made to subscribers and the public.
+
+Commit to one option in each hand. Then name one observation that would make you change it. If no observation would, you hold a doctrine rather than a decision.
+
+## What happened
+
+Amundsen placed Framheim at the Bay of Whales, 78°38′ S, on Barrier ice many contemporaries thought might be afloat. His parties laid roughly three tons of supplies at three southern depots and marked their approaches with numbered bamboo flags spread across the line of travel. On 8 September 1911 he started too early. In his published account he says uncertainty about Scott made him determined to leave as soon as possible, despite the danger of doing so. Temperatures fell between −58° and −75°F. The party retreated with dogs lost and men frostbitten.
+
+Amundsen's published text gives two different explanations for the subsequent division of the party and does not explain the conflict behind it. Five men left again on 20 October with four sledges and fifty-two dogs. They crossed an unscouted glacier, killed twenty-four dogs at the planned reduction point, reached the Pole on 14 December and returned to Framheim on 25 January with eleven dogs.
+
+Scott lost one motor through the sea ice while unloading. The remaining machines later ran, in his words, “well, but not very well.” During the 1911 depot journey, One Ton Depot was placed at 79°28½′ S rather than the intended 80°. Scott treated that as a defensible preservation of weakened ponies, writing that forcing some farther would have been “ridiculous.”
+
+The southern march then proceeded by stages: motors, ponies and dogs stopped or turned back; men continued. On 3 January 1912 Scott changed the final party from four men to five. Bowers had no skis and moved on foot while others skied. The five reached the Pole on 17 January and found Amundsen's tent. Edgar Evans deteriorated during the return—his fingers and nose repeatedly frostbitten, his condition and confidence visibly declining in Scott's entries—then collapsed below the glacier and died. Oates, suffering badly from his feet, later left the tent. Scott, Wilson and Bowers died in March, about eleven miles from One Ton Depot, short of food and critically short of fuel.
+
+The result tells us what the combined system encountered. It does not, by itself, tell us which 1909 choice was reasonable.
+
+## The people who inherited the stages
+
+The final party inherited a planned terminal stage, not an accidental fallback. They still had decisions. Oates had argued during depot-laying for pushing the ponies farther; Scott refused in order to preserve them. On 3 January Scott enlarged the final party, changing tent space, rations, fuel calculations and ski symmetry. Edgar Evans remained on the traces while frostbite and declining function were visible; on 17 February, after he repeatedly fell behind, the other four turned back for him and attempted to carry him onward. The record establishes their actions more securely than it establishes what alternatives felt psychologically available.
+
+The returning support parties inherited another problem. Lieutenant Evans collapsed with scurvy. Lashly stayed to nurse him while Crean walked more than thirty-five miles alone for help, according to Atkinson's report in Volume II. Their action converted an arithmetic problem—food, distance and a man unable to walk—into a rescue. The surviving record is less clear about the changing instructions for sending dogs to meet Scott. Dog teams went south and turned back; Scott's journal later records hope that they had reached a depot. The exact responsibility chain remains disputed and is not needed to decide the 1909 case.
+
+On Amundsen's side, the September start imposed frostbite, dog losses and damaged trust. His published account says only that “circumstances had arisen” requiring a split, while an earlier summary offers a different operational reason. Prestrud led the eastern party; Johansen, the expedition's most experienced sledger, served under him and was excluded from the polar party. The source shows the redistribution of roles but does not establish the private cause.
+
+## Reconstruction
+
+The earliest reversible and consequential decision was the transport architecture and the competence purchased with it. Once the expeditions sailed, depot radius, start season, interfaces and the identity of the terminal load-bearer were difficult to change.
+
+That does not make a fully Norwegian system automatically available to Scott. His science programme, public promises and McMurdo base were bundled constraints. Whether Britain could have hired a complete cadre of expert dog drivers in 1909 is unresolved. What remained available was narrower: train more of the party to ski and drive; define what each stage must deliver before the next assumes the load; test the motors without counting their promise as margin; or reduce objectives when the required competence could not be assembled.
+
+The latest reversible decisions came later: One Ton's latitude, the five-man reorganization, depot fuel control and dog-team instructions. Those choices may have spent margin. They did not create the architecture that determined where margin existed.
+
+## Competing diagnoses
+
+**Architecture failure.** Scott diversified modes without equal mastery. Each upstream shortfall was passed forward until the planned terminal stage—people—had nothing beneath it. On this diagnosis, the problem is not “using ponies” or “failing to use dogs.” It is a staged system whose final absorber had an unbounded load.
+
+**Reasonable risk with a bad outcome.** A mixed system had precedent in Shackleton's return. Scott had scientific obligations Amundsen did not. Motors offered a legitimate experiment; ponies were not irrational on the information then available. Weather, illness, fuel loss and several later choices may have converted a defensible plan into catastrophe.
+
+**Execution and late decisions.** The depot position, the fifth man, fuel shortages and relief arrangements may explain more than the 1909 portfolio. This diagnosis is strongest if restoring one of those margins changes the final problem in kind.
+
+These diagnoses can coexist. Architecture set the size and location of the margin; weather, illness and later choices spent it. The rarity of the late-season weather and the mechanism of the fuel shortage remain uncertain.
+
+## Counterfactual: give Scott more dogs
+
+Double the dogs and change nothing else: no additional expert drivers, no party-wide ski fluency, no redesigned depot line, no new route, no change to the scientific programme or the doctrine that men would haul the terminal stage.
+
+The later problem changes in degree, not necessarily in kind. More dogs might move more depot mass or save days. They do not automatically change the season fixed by the pony stage, the glacier doctrine, the handoffs or the identity of the final load-bearer. Dogs were not a detachable missing component. The difference was an operating system: operators, skiing, route, season, depot geometry and a doctrine willing to use animals farther south.
+
+Now run the stronger counterfactual: replace the whole operating system. That may change the problem in kind—but it also changes staffing, base, objectives and institutional commitments. “Scott should have used dogs” therefore hides the real decision rather than naming it.
+
+## Judgement
+
+The best-supported diagnosis is a design weakness, with moderate confidence: Scott's staged architecture placed its least replaceable resource—people—at the terminal stage, farthest from help and later in the season, while allowing upstream shortfalls to accumulate onto them. Calling this simply incompetence would fail the availability test. A fully specialized dog system may not have been realistically purchasable as one item, and the expedition's scientific and national objectives constrained the design. But the terminal-stage exposure could have been named, bounded and used as a reason to strengthen competence or reduce commitments.
+
+Amundsen's outcome is not proof of that judgement. The expeditions began at different latitudes, used different routes, returned in different parts of the season and provide one trial each. His September false start also shows that a coherent specialized system could be endangered by an optimistic leadership decision. The comparison supplies alternatives and mechanisms, not a controlled experiment.
+
+## How the story was remembered
+
+The decisions acquired two powerful afterlives. The 1913 publication helped turn endurance and self-sacrifice into a national heroic story. Later revisionism inverted the cast: Amundsen became the professional and Scott the bungler. The Scott Polar Research Institute describes the narrative as repeatedly reworked from tragic heroism to cynical revisionism, both of which reduce a complicated expedition to an archetype.
+
+This chapter inherits the “Scott versus Amundsen” frame and therefore must distrust it. Heroism does not validate the plan. Survival does not validate Amundsen's every decision. The afterlife explains why the case is remembered; it is not evidence available in 1909.
+
+## Where this stops being true
+
+Specialization helps when one environment rewards one method and genuine masters are available. Reverse either condition and the recommendation may reverse.
+
+- When terrain or mission genuinely varies, a portfolio can beat a monoculture—if each stage is competently operated and its handoffs are bounded.
+- When expert capacity cannot be recruited, a disciplined mixed system may be safer than nominal specialization run badly.
+- Amundsen concentrated risks: a base on ice thought afloat, an unknown mountain route and an early start driven partly by competitive uncertainty. Had the base or route failed, coherence would not have rescued the plan.
+- A justified risk can still produce a bad outcome. The method permits “uncertain” rather than forcing every disaster into decision failure.
+
+## Transfer
+
+**What transfers.** In a staged plan, ask what absorbs each stage's shortfall and what lies beneath the terminal stage. A component is not a capability; competence, operating doctrine and tested interfaces make it one.
+
+**What does not transfer.** Polar technique, animal use and the expedition-era acceptance of mortal risk. Do not turn dogs, ponies and people into glib office metaphors.
+
+**Solo-actionable version.** Draw the stages of one plan you can inspect. For each handoff, record the promised output, the minimum acceptable output and who absorbs the gap. A final answer of “the team works harder” is a risk concentration, not a reserve.
+
+## Field exercise
+
+Use the next plan with at least three dependent stages.
+
+- **Observable moment:** a meeting or document where one stage is said to protect the next.
+- **One question:** “When this stage under-delivers, who or what absorbs the shortfall—and what lies beneath the final absorber?”
+- **Recording method:** one row per handoff: promised output, minimum output, named absorber, tested capacity.
+- **Pass condition:** every handoff has a bounded gap and a named absorber with demonstrated capacity.
+- **Review condition:** any blank or “people will make it up” answer triggers an objective, resource or schedule review.
+- **Classification:** decision / execution / uncertain, recorded before the outcome is used to judge the plan.
+
+## Receipts
+
+- Robert Falcon Scott, *Scott's Last Expedition, Volume I*, edited posthumously by Leonard Huxley (1913), [local plain text](../sources/07-scott-amundsen/scott-last-expedition-vol-1.txt): personnel and dogs (lines 620–650, 840–860); motors (3585–3600); One Ton decision and position (5645–5730); transport doctrine stated in May 1911 (8335–8350); final-party entries and deterioration (15550–16755); fuel shortage and final message (17100–17710). Project Gutenberg eBook 11579.
+- Leonard Huxley, ed., *Scott's Last Expedition, Volume II* (1913), [local OCR text](../sources/07-scott-amundsen/scott-last-expedition-vol-2-ocr.txt): Atkinson's report on Crean, Lashly and Lieutenant Evans and the later dog journey (lines 11645–11725). OCR is used for location; quotations should be checked against page images.
+- Roald Amundsen, *The South Pole*, [local plain text](../sources/07-scott-amundsen/amundsen-the-south-pole.txt): secrecy and change of plan (1908–1995); Barrier-base risk (2065–2072); depots (300–375); ski doctrine (4148–4156); September-start reasoning and retreat (9700–9968); party split and Johansen evidence (9962–9968, 14958–14962); transverse depot markings (6314–6326); dog reduction (11440–11455); return (13985–14005). Project Gutenberg eBook 4229.
+- Scott Polar Research Institute, [seminar archive on changing Scott narratives](../sources/07-scott-amundsen/spri-scott-afterlife.html), used only for the bounded afterlife summary.
+- Access and reuse status, hashes and unresolved archive limits are recorded in [the source manifest](../sources/MANIFEST.md#07--scott-versus-amundsen). The Scott journal cited here is the edited 1913 publication, not an assertion of identity with the manuscript diaries.
+
+*This chapter teaches the reader to identify who or what absorbs the shortfall at the terminal stage. Challenger asks whether a protection shares the primary system's uncertainty; this chapter asks where accumulated shortfalls finally land.*
+
+> Before somebody has to be brave, where is the last reversible decision?
