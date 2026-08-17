@@ -42,6 +42,66 @@ Checksums are SHA-256.
 - Access: downloadable PDF
 - Reuse: federal report text generally public domain in the United States; Boeing and
   third-party exhibits require item-level review.
+- Derived text: `house-final-report.txt` (pdftotext -layout, 245 pp, 13,272 lines);
+  SHA-256 `fcc920ac49c96ea8aa267e6e5c9d6f59a8337319377f585a5f3f9bf9c5621cfc`.
+
+Supplementary official record, all downloaded 2026-08-17, each with a `.txt` sibling made by
+`pdftotext -layout`. Locator convention for chapter receipts in this case: short source tag,
+PDF page, text-file line (`House p. 95 / l. 5828`; `KNKT p. 210 / l. 8012`).
+
+- File: `03-boeing-737-max/jatr-report.pdf` — *Boeing 737 MAX Flight Control System:
+  Observations, Findings, and Recommendations*, Joint Authorities Technical Review, submitted
+  to FAA 11 Oct 2019, 71 pp. URL
+  <https://www.faa.gov/sites/faa.gov/files/2022-08/Final_JATR_Submittal_to_FAA_Oct_2019.pdf>.
+  SHA-256 `75fe6ed7abc8148eb6fd785024f62cb431f0d653990359bfad6600318ad4ab1d`. Reuse: FAA-hosted
+  multi-authority report; treat as US federal publication, quote with citation.
+- File: `03-boeing-737-max/dot-oig-av2021020.pdf` — DOT Office of Inspector General,
+  *Weaknesses in FAA's Certification and Delegation Processes Hindered Its Oversight of the
+  737 MAX 8* (AV2021020, 23 Feb 2021), 63 pp. URL
+  <https://www.oig.dot.gov/sites/default/files/FAA%20Certification%20of%20737%20MAX%20Boeing%20II%20Final%20Report%5E2-23-2021.pdf>.
+  SHA-256 `abb077df048215a48db0591d45f2d2afaa3f9a9af3d6eb02751247059abf0ec9`. Public domain.
+- File: `03-boeing-737-max/dot-oig-timeline-2020.pdf` — DOT OIG, *Timeline of Activities
+  Leading to the Certification of the Boeing 737 MAX 8 Aircraft and Actions Taken After the
+  October 2018 Lion Air Accident* (AV2020037, 30 Jun 2020), 52 pp. URL
+  <https://www.oig.dot.gov/sites/default/files/FAA%20Oversight%20of%20Boeing%20737%20MAX%20Certification%20Timeline%20Final%20Report.pdf>.
+  SHA-256 `e34b2b48fc89015d08c34ef6df6d3ae8a4368e9f3fe1821b26f62294198ac3bf`. Public domain.
+- File: `03-boeing-737-max/faa-rts-summary.pdf` — FAA, *Summary of the FAA's Review of the
+  Boeing 737 MAX* (return-to-service summary, Nov 2020), 99 pp. URL
+  <https://www.faa.gov/sites/faa.gov/files/2022-08/737_RTS_Summary.pdf>. SHA-256
+  `d991d1372567e768d7a884fb65cdbe3233ab40bac66682da6b8d6d6ab239ab0e`. Public domain.
+- File: `03-boeing-737-max/ntsb-asr-19-01.pdf` — NTSB, *Assumptions Used in the Safety
+  Assessment Process and the Effects of Multiple Alerts and Indications on Pilot Performance*
+  (ASR-19/01, 19 Sep 2019), 13 pp. URL
+  <https://www.ntsb.gov/investigations/AccidentReports/Reports/ASR1901.pdf>. SHA-256
+  `f232ba85e2b174c9288f3132c502f83d5546364a05de555edc551c44fc4b22be`. Public domain.
+- File: `03-boeing-737-max/knkt-lion-air-610-final.pdf` — KNKT (Indonesia), *Aircraft
+  Accident Investigation Report, PT. Lion Mentari Airlines Boeing 737-8 (MAX) PK-LQP, 29
+  October 2018* (KNKT.18.10.33.04, Oct 2019), 322 pp. URL
+  <https://knkt.go.id/Repo/Files/Laporan/Penerbangan/2018/KNKT.18.10.33.04-Final-Report.pdf>.
+  SHA-256 `551890bf7fb7d057ef9a8b716decee4b57890928b95109aeeaeca33d0044fab4`. Reuse: Annex 13
+  state report published for safety purposes; quote with citation, do not republish sections.
+- File: `03-boeing-737-max/eaib-et302-final.pdf` — Ethiopian Aircraft Accident Investigation
+  Bureau, *Aircraft Accident Investigation Report, Boeing 737-8 MAX ET-AVJ, 10 March 2019*
+  (final, Dec 2022), 331 pp. Downloaded from the BEA mirror
+  <https://bea.aero/fileadmin/user_upload/ET_302__B737-8MAX_ACCIDENT_FINAL_REPORT.pdf>.
+  SHA-256 `eef13d1cc53f7ef6dfb17247b926aa5fe44aa2e8c3ee9232c582d24afb0bcafd`. Reuse as KNKT.
+  Note: NTSB and BEA formally dissented from parts of this report — cite alongside the next
+  item, never alone, on crew-performance points.
+- File: `03-boeing-737-max/ntsb-comments-eaib-final.pdf` — NTSB, *Comments on the EAIB Final
+  Aircraft Accident Investigation Report* (Dec 2022), 7 pp. URL
+  <https://www.ntsb.gov/investigations/Documents/Response%20to%20EAIB%20final%20report.pdf>.
+  SHA-256 `723f03a75a0c211a07eb2dc64ec7b4eca8650a532a1d469da3661b2240f7e8ef`. Public domain.
+  Note: this file is the January 2023 *supplement* (vane failure mechanism, finding 78, fault
+  tree); the crew-performance dissent is in the next item.
+- File: `03-boeing-737-max/ntsb-us-comments-et302-draft-2022.pdf` — NTSB (US accredited
+  representative), *US Comments on Draft Aircraft Accident Investigation Report, Ethiopian
+  Airlines Flight 302* (comments on the 30 Mar 2022 draft, submitted 12 May 2022; published
+  27 Dec 2022), 9 pp. URL
+  <https://www.ntsb.gov/investigations/Documents/US%20comments%20ET302%20Report%20March%202022.pdf>.
+  SHA-256 `32a45b9a8cd4b924678aff40a7e2e4a6da5eedbe7106b7bcebbae4f547a194ea`; derived text
+  `10128b06e7b0bdfc77971b819e621afc570859c0e729c6d0b7de9747ec9788f5`. Public domain. Tag
+  `NTSB-US`. Proposes adding "the flight crew's inadequate use of manual electric trim and
+  management of thrust" to the probable cause.
 
 ## 04 — Titanic
 
