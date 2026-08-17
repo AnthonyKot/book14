@@ -15,7 +15,7 @@ who inherited the risk.
 | 3 | [Boeing 737 MAX](dossiers/03-boeing-737-max.md) | When may design rely on rapid operator recovery? | Research-heavy; decision point to narrow |
 | 4 | [Titanic](dossiers/04-titanic.md) | What changes when safety depends on detecting trouble in time? | [Draft written](chapters/04-titanic.md) |
 | 5 | [Bay of Pigs](dossiers/05-bay-of-pigs.md) | Continue after a prerequisite has been removed? | [Draft written](chapters/05-bay-of-pigs.md); Cuban source balance remains |
-| 6 | [Triangle fire](dossiers/06-triangle.md) | May one control remove somebody else’s last safe exit? | Strong; exact management role to lock |
+| 6 | [Triangle fire](dossiers/06-triangle.md) | May a control's release depend on a key or a person when it stands on someone else’s last exit? | [Fable draft](chapters/06-triangle.fable.md), four reviews ([Opus](06-triangle-opus-review.md), [grok](06-triangle-grok-review.md), [agy](06-triangle-agy-review.md), [codex](06-triangle-codex-review.md)), [canonical draft](chapters/06-triangle.md) |
 | 7 | [Scott versus Amundsen](dossiers/07-scott-amundsen.md) | What lies beneath the terminal stage? | [Fable draft](chapters/07-scott-amundsen.fable.md), [Opus review](07-scott-amundsen-opus-review.md), [canonical draft](chapters/07-scott-amundsen.md) |
 | 8 | [Iraq, 2003](dossiers/08-iraq-2003.md) | Approve phase one when phase two is unowned? | Scope risk; must narrow before prose |
 

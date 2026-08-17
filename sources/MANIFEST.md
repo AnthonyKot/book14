@@ -76,7 +76,38 @@ Checksums are SHA-256.
 - Access: downloadable HTML; the archive exposes the transcript by section
 - Reuse: mixed archival rights. Cite and quote conservatively; clear photographs, audio and
   modern editorial text item by item.
-- Gap: archive the relevant witness sections after the exact management decision is locked.
+- Gap: closed 2026-08-16 by the complete transcript below.
+
+- File: `06-triangle/CompleteTriangleFireTranscript.pdf` (downloaded 2026-08-16); derived
+  text `06-triangle/complete-transcript.txt` (pdftotext -layout; 61,566 lines)
+- Title: *The People of the State of New York v. Isaac Harris and Max Blanck*, Court of
+  General Sessions, trial transcript, 20 November – 27 December 1911. Volumes I, III and IV
+  verbatim; Volume II survives only as Leon Stein's "Library notes" (summaries and long
+  excerpts, transcript pp. 677–1996), which are included in the same file.
+- Host: Cornell University Library eCommons, Kheel Center collection "Transcripts of
+  Criminal Trial Against Triangle Owners" (handle 1813/72810; item 1813/88028)
+- URL: <https://ecommons.cornell.edu/handle/1813/88028> (bitstream
+  `fc79d94b-fc87-4cee-aca1-61c48929d234`); section-by-section PDFs are also available as
+  items 1813/88011–88027
+- SHA-256 (PDF): `a88d08d5dc1b77065829112a9624a05cb12fd124631f2ede1eb47410c86b4d6d`
+- SHA-256 (derived text): `7dc07802ea8a7da4b59956ea588d05f44003aa1778dea7e99f5b20c8d5e190f0`
+- Access: downloadable PDF, 1,586 pages, text layer present (2005 re-typing of the
+  transcript, not a scan of the original; the original page numbers appear in the text).
+- Reuse: the 1911 court record is not itself copyrightable; the 2005 transcription,
+  editorial notes and Von Drehle introduction belong to Cornell/the authors. Quote briefly
+  with page citation; do not republish sections. Vol. II notes are Leon Stein's summaries and
+  must be cited as such, not as verbatim testimony.
+- Locator convention for chapter receipts: transcript page number, then text-file line
+  (`p. 1864 / l. 55075`).
+
+- File: `06-triangle/cornell-legacy.html` (downloaded 2026-08-16)
+- Title: "Legacy of the Triangle Fire" — Cornell Kheel Center archive page (Factory Investigating
+  Commission, reform, unions)
+- URL: <https://trianglefire.ilr.cornell.edu/legacy/index.html>
+- SHA-256: `633c8c4965e7866919dacbc2c768afc2f5039beb1b2ee9051b6171a6003ed778`
+- Access: downloadable HTML
+- Reuse: modern editorial text, © Cornell; used only to source the afterlife sentence about the
+  Factory Investigating Commission (paraphrase, no quotation).
 
 ## 07 — Scott versus Amundsen
 

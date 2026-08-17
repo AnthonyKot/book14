@@ -31,7 +31,9 @@ Recommended drafting order is methodological, not chronological:
 3. BP Texas City — tests distributed organizational causation.
 4. Bay of Pigs — tests political constraints and removal of plan assumptions.
 5. Scott versus Amundsen — tests hindsight and competing diagnoses.
-6. Triangle — tests coercion and constrained worker choice.
+6. Triangle — tests coercion and constrained worker choice. **Done 2026-08-16–17:** complete
+   trial transcript archived; decision locked on the standing exit routine; draft → four
+   adversarial reviews → canonical `chapters/06-triangle.md`.
 7. Boeing 737 MAX — tests technical complexity and operator assumptions.
 8. Iraq 2003 — tests whether the method survives a sprawling, contested case.
 

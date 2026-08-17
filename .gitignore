@@ -6,3 +6,7 @@ sources/**/*.rtf
 sources/**/*.zip
 sources/**/*.epub
 
+
+# Helper-model run logs are scratch, not evidence.
+extract/*.log
+extract/.*.done

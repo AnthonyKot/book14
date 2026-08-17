@@ -1,0 +1,150 @@
+# The key on a string
+
+*Triangle Waist Company · New York · 1910–1911 · Decision-forcing case*
+
+In the summer of 1910 a presser on the ninth floor walks toward the Greene Street door at closing time with two shirtwaists folded into the pad of false hair under her own. A thread shows. The girl behind her pulls it, the waist comes out, and the presser is taken to the office. She says her mistress asked her to bring two waists. The firm does not prosecute. It has tried that—six girls arrested three years earlier, then lawsuits for damages—and Isaac Harris has concluded that "the best way is to discharge them and not be bothered with them any more." She is discharged. The line at the Greene Street door keeps moving: open the pocketbook, show the watchman, go down.
+
+Nothing has gone wrong. The rule that everybody leaves one way, past one man, is doing what it was made to do.
+
+## The hand you are dealt
+
+**You are Isaac Harris**, the partner who runs the shop floor of the Triangle Waist Company. You have leased the ninth loft of the Asch Building for nine or ten years, four of them before the firm added the eighth and tenth; Max Blanck, your partner, handles the business side. The three lofts employ roughly five hundred people, most of them women; about three hundred sit at the machines on the ninth.
+
+Each loft has two stair doors: Greene Street, beside the freight elevators and, on the ninth, behind a partition; Washington Place, at the opposite corner, beside the two passenger elevators. Both open inward onto landings where an outward door would block the stair. Only the Greene Street stair continues to the roof. An open iron fire escape hangs in the rear court.
+
+The nightly rule is the firm's, and it is old: operators leave by Greene Street; a watchman on each floor looks into handbags; keys and watchmen are the province of Louis Alter, the elderly relative who opens and locks the lofts. On the account the firm's own people give, the ninth-floor Washington Place door is kept closed with a key in the lock, tied to the knob by a string; the manager crosses that stair between the eighth and ninth ten times a day without using a key; foreladies sometimes leave by it; in summer it stands open. On the operators' account, they never saw it used and always went out past the watchman. Nobody says it was part of the nightly exit.
+
+- **Objective:** keep three hundred operators productive and the goods in the building.
+- **Clock:** any closing time. Take the last week of February 1911, the week after a state inspector's visit; the rule is re-made at every quitting bell.
+- **Primary resource:** freedom of movement, spent to buy loss control and supervision.
+- **Authority:** the exit rule, the watchmen, what the second door is for at closing.
+- **Constraint:** you did not build the doors, the stairs or the fire escape; no law requires more than one exit; a bag search is a lawful loss control.
+
+## Evidence ledger
+
+**Known.** Five fires on the premises: two in 1902 with insurance claims, three since, put out with pails. Cuttings pile under the cutting tables between rag collections; the dealer took away more than a ton in mid-January, most of it from the eighth floor. Section 80 of the Labor Law says factory doors "shall not be locked, bolted or fastened during working hours." State inspectors called in January 1910, twice, and again on 27 February 1911; each card marks the doors unlocked during working hours, and two of them mark outward-opening doors "not practical." Theft you have caught in the past year: a couple of cases; goods worth, in your words, "ten dollars or fifteen dollars"; you do not dispute it is under twenty-five. What has walked out uncaught you cannot say.
+
+**Reasonably inferable.** For option C: a door the manager uses ten times a day is passable, and three inspections in fourteen months found nothing to notice. Against it: a rule that everyone leaves one way teaches three hundred people one door, and a door kept closed with a key in it is only an exit for whoever finds and turns the key.
+
+**Possible.** That the second door will never be needed; that in an emergency the elevators, roof stair and fire escape will absorb whatever Greene Street cannot.
+
+**Unknown.** How fast a cuttings fire on the eighth would reach the ninth. Whether the standpipe hose works—the building superintendent has examined it and never run water through it. Whether operators know the fire escape exists; its window is behind the examiners' tables. Whether the key will be in the door when it matters.
+
+**Unknowable.** How three hundred people behave when the room fills with smoke.
+
+## The decision
+
+Three arrangements are within your authority.
+
+**A. Keep the search, make the second door a real exit.** The version the record shows you could do tomorrow: at closing, someone on the floor opens the Washington Place door and stands it, as the firm already does in summer; the way out no longer depends on a key being found. A stronger version—hardware that opens from inside without a key—may need the landlord. The gain is an exit that exists whether or not anyone finds the key. The exposure is a second, unwatched way out of a loft you have been searching for years.
+
+**B. Give up the single-exit search on the ninth floor.** Accept an unmeasured loss, or control it another way. The gain is two exits in daily use, so people learn them. The exposure is theft you cannot measure and a rule your partner regards as normal.
+
+**C. Keep the prevailing arrangement.** One supervised exit, second door closed and keyed. Three inspection cards say unlocked. It costs nothing, and the last three fires went out with pails.
+
+Commit. Then name one observation that would change your answer. If nothing would—if the second door is a matter of principle either way—you hold a doctrine, not a decision.
+
+## What happened
+
+At the quitting bell on Saturday, 25 March 1911, an operator on the eighth floor saw a few rags burning on the floor by the Greene Street cutting tables; the fire went into the cuttings under the table and "spread all under the tables." Cutters threw pails of water. The first street alarm reached the fire houses at 4:45; the second at 4:48; the third at 4:55.
+
+The eighth-floor timekeeper's telautograph ran to the tenth floor only. She wrote; nothing came back. She telephoned the tenth and told the stenographer there was a fire on the eighth—"Tell Mr. Blanck about it." She did not ask for the ninth. Ninth-floor witnesses learned by a scream, by smoke, or by flame at the windows.
+
+On the eighth, the manager sent a machinist to "get all the girls out if possible"; at the Washington Place door the machinist found the key would not turn and pulled the door open against a crowd "packed as packed." On the tenth, Blanck sent a car of pressers down with orders to come back, opened the Washington Place door, met smoke, and took his two children to the roof, where people were being pulled up onto the building next door.
+
+On the ninth, roughly a dozen witnesses later swore they tried the Washington Place door and could not open it; two defence witnesses swore they opened it, saw flame and smoke rising from the eighth, and turned back. The passenger elevators kept coming for a time, then stopped; people slid down the cables and dropped into the shaft. A life net caught jumpers "until the net broke"; the same company took nineteen bodies from the top of a Washington Place elevator car.
+
+A hundred and forty-six people died, by the archive's count; the transcript establishes one death. Margaret Schwartz, a ninth-floor operator, died of "asphyxia by smoke"; on Kate Alterman's account, recorded in a researcher's notes of the lost second volume, she was last seen at the Washington Place door. Harris and Blanck were tried for her manslaughter on the theory that a door locked in working hours was a misdemeanour and her death followed from it. A lock with its bolt shot, found on the Washington Place side sixteen days after the fire, was fought over by locksmiths who disagreed whether heat could shoot a bolt. On 27 December 1911 the jury, instructed that it must find the door locked, the owners aware of it, and the lock the cause of her death, acquitted in under two hours.
+
+The result tells you what happened when the eighth-floor fire met that ninth-floor arrangement. It does not tell you the door was locked; that was litigated and remains disputed. Nor does the acquittal make the arrangement reasonable; the jury answered a narrower question.
+
+## The people who inherited it
+
+The ninth floor received no telephone warning. Its people still decided.
+
+Mary Bucelli tried the door, saw no key, decided not to follow a crowd she thought would be crushed, climbed on a table, broke a window and went out on the fire escape. Ida Nelson tried the door, found the fire escape too thick with flame, crossed the loft to Greene Street and climbed to the tenth, where a boy from the college got her out. Lillian Weiner tried the door twice, went to a window to jump, saw the flames below, went back to the door, then knocked at the elevator until it came: she "fell into the elevator, and a whole lot of more girls fell in on top of me." May Levantini, a defence witness, turned the key on its string, opened the door, saw the eighth-floor girls running down through smoke and flame, went back to the elevator, found the crowd too great, and slid down the cable. William Greenspan, another, opened the door, took flame in the face, crossed the burning loft and ran up the Greene Street stair to the roof.
+
+Kate Alterman's account survives only in a researcher's notes: she and Margaret Schwartz reached the door together after the Greene Street side was in flame; a man tried it, then Margaret, then Alterman turned the handle every way she could; Margaret went down on her knees. Alterman covered her head with a coat and ran through the fire to the roof. Whether she had rehearsed her words was the defence's whole cross-examination.
+
+The elevator men chose to come back up into smoke more than once; no operator testified. On the eighth floor Samuel Bernstein, the manager, chose to send Louis Brown to the crowd rather than the fire; Brown, with no charge over the door, decided the crowd against it was the problem, forced it back and pulled. Dinah Lipschitz warned the only floor her instrument reached and held the line for two minutes. Woll's company ran the net until it broke and then went up. None of these people set the exit rule. Each spent the margin it left them.
+
+## Reconstruction
+
+The last reversible and consequential decision was the exit rule: one supervised way out for the operators, the second stair door outside their routine, closed and keyed on the firm's own account, with no rule, person or test for it in the surviving record. It was reversible any evening. It was consequential because it plausibly shaped what three hundred people tried first and what the second door was worth when they reached it.
+
+That is a decision about a control, not about a padlock. It stands whether or not the door was locked at 4:45. On the defence's best evidence the door was closed with the key in it—an exit for whoever found and turned a key on a string in smoke, as the manager and some foreladies did and the operators, on their evidence, never had. On the People's evidence the key was not there. Either way, the release depended on something the arrangement did not guarantee.
+
+Later decisions—the call to the tenth and not the ninth, the summer door closed for winter, whoever last turned the key—spent margin. They did not design it.
+
+Decision, execution and outcome quality separate here. Execution of the rule was, on the record, ordinary: watchmen watched, keys hung on strings, three inspectors marked the doors unlocked. The outcome was catastrophic. The question is whether making an exit depend on a key was a poor decision before any fire, and the answer does not depend on the fire.
+
+## Competing diagnoses
+
+**A control that failed toward containment.** The exit rule bought loss control by making one door a habit and the other a keyed door. Under load, a keyed door is not an exit for anyone who does not find the key. This holds even on the defence's account.
+
+**Housekeeping and suppression.** Cuttings sat under the tables between collections; the material, in the prosecutor's word, was "like tinder"; the fire went into it at once. The house hose had never been tested with water. On this diagnosis, exits are secondary: a fire that crosses a loft in minutes defeats most doors.
+
+**Warning wired past the ninth floor.** The eighth could reach the tenth directly and the ninth only through it; the ninth learned by scream. Earlier warning would have loaded every exit sooner; by how much is a hypothesis no witness quantifies.
+
+**Building and code.** Inward doors, one stair to the roof, a fire escape ending on a drop ladder above a skylight in a walled court, a partition in front of the ninth-floor Greene Street door. The tenant built none of it, and the state's inspectors passed the doors three times.
+
+**Reasonable practice, bad outcome.** The arrangement broke no law requiring two exits, passed inspection a month before, and had never mattered in nine years. Asked at trial whether employees had complained about not being allowed down the Washington Place way, the manager said no; the record establishes no warning to the owners about that door. On this diagnosis, Harris chose C as most proprietors would and drew the fire most did not.
+
+These do not exclude one another: housekeeping and warning set how many minutes there were; the exit rule set what the second door was worth in them.
+
+## Counterfactual: a door that opens without a key
+
+Change one thing: at closing on the ninth floor the Washington Place door stands open, or opens from inside without a key. Leave the cuttings, the hose, the telautograph, the partition, the fire escape and the crowd exactly as they were.
+
+The later problem changes in kind at one point: an exit exists for whoever reaches it. Everything after that point is hypothesis, and the record bounds it. The door opens inward; on the eighth floor the same door, with its key stuck, opened only because one man pushed the crowd off it and held it—an exit that depended on a person, not a key. The stair is less than three feet wide and already carrying the eighth floor; two witnesses who opened the ninth-floor door that day looked into it and turned back. Some who could not open the door might have gone down and lived; some might have met the crowd or the smoke. The record cannot count them, and the chapter must not.
+
+Everything else changes only in degree: the fire escape still ends above a skylight, the elevators still stop, the ninth still gets no call. Restoring the door does not restore the minutes. "They locked the door" is therefore an incomplete diagnosis even where it is true; "they made an exit depend on a key" is the decision, and it was theirs to reverse.
+
+## Judgement
+
+The best-supported diagnosis, with moderate confidence, is a control designed to fail toward containment. This was poor decision quality before any fire and required no foresight of this one—only the question of what the second door was for.
+
+The record cannot establish that the door was locked at 4:45, that the owners knew its condition that day, or how many of the ninth floor's dead would have lived had it opened. It records no warning to the owners about that door. Where the record is silent, the chapter is.
+
+## How the story was remembered
+
+The fire became "the owners locked the doors" and then became the reason for the New York Factory Investigating Commission and a generation of workplace law. Both memories are afterlives. Neither is evidence about the 1911 decision. The first flattens a litigated door into a fact; the second treats a reform as proof that the pre-reform arrangement was culpable, when its architects were acquitted by a jury told to look for knowledge and cause. The chapter uses the trial record because it is messier than the memory.
+
+## Where this stops being true
+
+A controlled exit is defensible when its release is fail-safe, obvious under stress, tested under load, and independent of finding a particular person or key—or when it is not anyone's last independent exit.
+
+- A watched single exit with a second door that opens on a push is a reasonable loss control; the failure mode is a door that opens only with a key.
+- Where the second exit is itself dangerous—an unenclosed stair full of the floor below's smoke—opening it may only move the crowd; the two witnesses who opened this one turned back.
+- Where a control is not on anyone's last path out, a key and an assigned person can be adequate. The condition is the independent route, not the key.
+- A proprietor who chose C and never had a fire made a poor decision with a good outcome; the method allows "uncertain," but does not upgrade the decision.
+
+## Transfer
+
+**What transfers.** A control you impose for your own protection—a lock, a permission, a single sign-off, a gate in a process—must fail toward escape for the people on the other side of it when it stands on their last independent path out. Ask what the release depends on: if the answer is a key, a person or a permission that may not be present, the exit is nominal.
+
+**What does not transfer.** 1911 building code, garment-trade loss control and criminal-liability standards; the reader is not asked to unlock every door.
+
+**Solo-actionable version.** Find one control you own that could become someone else's blocked exit—physical, procedural or informational. Try its release without you and without your key. If it does not open, that is the decision.
+
+## Field exercise
+
+- **Observable moment:** the next time a control you own is bypassed, requested or complained about.
+- **One question:** "If the person on the other side needed this to open now, without me and without the key, would it—and is there another way out?"
+- **Recording method:** one line per control—what it protects, what its release depends on, who owns it at the moment of need, whether another route exists, when it was last tried under load.
+- **Pass condition:** every control on someone's last route has a release that does not depend on locating one person or one key, and has been tried.
+- **Review condition:** any such control whose release is "someone will open it" goes to the owner with the exit named.
+- **Classification:** decision / execution / uncertain, recorded before any incident is used to judge the control.
+
+## Receipts
+
+Locators are transcript page / text-file line in [the complete surviving trial transcript](../sources/06-triangle/complete-transcript.txt), *People v. Harris and Blanck* (1911). Items marked *(notes)* are Leon Stein's summaries of the lost Volume II and of late Volume IV testimony; they are paraphrased above and never quoted as verbatim.
+
+- **The routine and the rule.** Cold open and theft: Harris pp. 1865–1868 / l. 55142–55270 (his figure "ten dollars or fifteen dollars"; the under-$25 wording is the prosecutor's question, which he accepted). Tenure: p. 1847 / l. 54408–54437. Exit routine and watchmen: Gullo p. 364 / l. 14849; Monick p. 488 / l. 19921–19931; L. Weiner p. 640 / l. 26042; Wexler *(notes)* p. 1029 / l. 28213. Keys and Alter: Harris p. 1853 / l. 54670; Alter p. 1753 / l. 50665. Key on string, defence account: Levantini p. 1293 / l. 32097; S. Bernstein p. 1519 / l. 41142–41172 (ten crossings a day, "never used a key"); Rapp p. 1601 / l. 44460. Foreladies and summer: Wortman pp. 1796–1797 / l. 52347–52372. Bucelli, no key seen: p. 327 / l. 13346. Court on one exit versus two and no legal duty for a second exit: pp. 1869–1870 / l. 55318–55348. Section 80 and the charge: pp. 2190–2194 / l. 61247–61360; verdict p. 2204 / l. 61563. Inspection cards 6 and 13 January 1910 and 27 February 1911: Williams pp. 1219–1233 / l. 29646–29752, with Bostwick's qualification that the reports were not statutory, l. 29750–29765. Complaints denied: S. Bernstein p. 1560 / l. 42802–42808. Prior fires: Harris pp. 1859–1862 / l. 54894–55024. Cuttings and the January collection: Levy pp. 246–253 / l. 9923–10273. Hose never tested: Stern pp. 1247–1255 / l. 30270–30634. Doors, stairs and clearance: Whiskeman p. 45 / l. 1668; pp. 53, 59–61 / l. 2014, 2282–2331. Fire escape *(notes)*: pp. 883–887 / l. 27816–27854; window obstructed, I. Schwartz *(notes)* p. 691 / l. 27457.
+- **The day.** Origin: Ingegeno pp. 242–243 / l. 9770–9796; Feibes p. 283 / l. 11490–11512. Alarms: Donohue pp. 80–83 / l. 3148–3250. Saturday bell: p. 3 / l. 155. Warning: Lipschitz pp. 1806–1810 / l. 52722–52899; Rosenfeld p. 1704 / l. 48692. Bernstein's order and Brown at the eighth-floor door: pp. 1646–1649 / l. 46262–46372. Blanck, elevator man and roof *(notes)*: pp. 1949–1954 / l. 28703–28760. Ninth-floor door, could not open: Bucelli pp. 326–327 / l. 13301–13346; Nelson p. 392 / l. 15985–16026 (fire escape, "college boy"); L. Weiner p. 639 / l. 25985–26003; Gullo p. 362 / l. 14743; K. Weiner p. 582 / l. 23684; Monick p. 485 / l. 19784; Mayers p. 549 / l. 22369; Walker p. 604 / l. 24568; Brenman p. 347 / l. 14153; S. Bernstein (operator) p. 303 / l. 12364. Opened it: Levantini p. 1293 / l. 32097–32111 (cable, per Steuer p. 2063 / l. 57000–57010); Greenspan pp. 1665–1667 / l. 47044–47110. Selmanowitz *(notes)* pp. 763–765 / l. 27519–27528. Net and elevator roof: Woll pp. 152–153 / l. 6094–6110. Coroner's physician: p. 66 / l. 2540–2552. Alterman and Schwartz *(notes)*: pp. 1154–1167 / l. 28388–28569. Population per floor and "no superintendent" on the ninth (prosecution summation): p. 2154 / l. 60174–60189; "like tinder" l. 60160. Lock exhibit and expert dispute *(notes)*: pp. 1904–1996 / l. 28675–28897; Bostwick p. 2167 / l. 60622. Fire drills: witnesses l. 17371, 19940, 21827, struck by the court p. 1212 / l. 28927–28942, and therefore not asserted above.
+- **Cornell archive pages.** Death toll: [trial-records introduction](../sources/06-triangle/trial-records-introduction.html) (modern editorial text, "146 workers"). Factory Investigating Commission: [legacy page](../sources/06-triangle/cornell-legacy.html), paraphrased.
+- **Access and reuse:** [source manifest](../sources/MANIFEST.md#06--triangle-shirtwaist-factory). The 1911 record is not copyrightable; the 2005 Cornell transcription is quoted briefly with page citation only.
+
+*This chapter teaches the reader to ask what a control's release depends on. Titanic asks whether accepted practice that passed inspection was reasonable; Texas City asks whether a safeguard has quietly degraded; this chapter asks whether the safeguard was ever designed to open for the person who needs it.*
+
+> Before somebody has to be brave, where is the last reversible decision?
