@@ -12,7 +12,7 @@ who inherited the risk.
 |---|---|---|---|
 | 1 | [Challenger](dossiers/01-challenger.md) | Who carries the burden of proof outside the tested envelope? | [Draft 1 written](chapters/01-challenger.md) |
 | 2 | [BP Texas City](dossiers/02-bp-texas-city.md) | When may degraded safeguards be treated as adequate? | [Draft written](chapters/02-bp-texas-city.md) |
-| 3 | [Boeing 737 MAX](dossiers/03-boeing-737-max.md) | When may design rely on rapid operator recovery? | Research-heavy; decision point to narrow |
+| 3 | [Boeing 737 MAX](dossiers/03-boeing-737-max.md) | When may design rely on rapid operator recovery? | [Fable draft](chapters/03-boeing-737-max.fable.md), four reviews ([Opus](03-boeing-737-max-opus-review.md), [grok](03-boeing-737-max-grok-review.md), [agy](03-boeing-737-max-agy-review.md), [codex](03-boeing-737-max-codex-review.md)), [canonical draft](chapters/03-boeing-737-max.md) |
 | 4 | [Titanic](dossiers/04-titanic.md) | What changes when safety depends on detecting trouble in time? | [Draft written](chapters/04-titanic.md) |
 | 5 | [Bay of Pigs](dossiers/05-bay-of-pigs.md) | Continue after a prerequisite has been removed? | [Draft written](chapters/05-bay-of-pigs.md); Cuban source balance remains |
 | 6 | [Triangle fire](dossiers/06-triangle.md) | May a control's release depend on a key or a person when it stands on someone else’s last exit? | [Fable draft](chapters/06-triangle.fable.md), four reviews ([Opus](06-triangle-opus-review.md), [grok](06-triangle-grok-review.md), [agy](06-triangle-agy-review.md), [codex](06-triangle-codex-review.md)), [canonical draft](chapters/06-triangle.md) |

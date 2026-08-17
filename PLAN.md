@@ -34,7 +34,10 @@ Recommended drafting order is methodological, not chronological:
 6. Triangle — tests coercion and constrained worker choice. **Done 2026-08-16–17:** complete
    trial transcript archived; decision locked on the standing exit routine; draft → four
    adversarial reviews → canonical `chapters/06-triangle.md`.
-7. Boeing 737 MAX — tests technical complexity and operator assumptions.
+7. Boeing 737 MAX — tests technical complexity and operator assumptions. **Done 2026-08-17:**
+   ten official reports archived and hashed; decision locked on the 30 March 2016 approval of
+   MCAS Rev. D as presented (role: chief project engineer); draft → four adversarial reviews →
+   canonical `chapters/03-boeing-737-max.md` (~3,190 words, disputes kept open).
 8. Iraq 2003 — tests whether the method survives a sprawling, contested case.
 
 ## Phase 4 — selection
