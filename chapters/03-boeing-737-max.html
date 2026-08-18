@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>3 · Four seconds — Historical Fuck-Ups</title>
+<meta name="description" content="Everett, 30 March 2016. A software fix for a stall problem is approved, and the same morning the regulator is asked to leave it out of the pilots' manual because it is 'transparent to the crew'. Nothing was hidden; several things were simply not re-asked. Why the decision was not obvious, three doors, and an invitation to think about a cockpit three years out.">
+<link rel="stylesheet" href="../static/style.css">
+<script src="../static/theme.js"></script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="../index.html">Historical <span>Fuck-Ups</span></a>
+    <nav class="site-nav">
+      <a href="../index.html">Cases</a>
+      <a href="../about.html">Method</a>
+      <button class="theme-toggle" type="button">☾ Dark</button>
+    </nav>
+  </div>
+</header>
+<main class="wrap">
+
+<p class="kicker">Case 3 · Boeing 737 MAX program · Everett, 30 March 2016</p>
+<h1>Four seconds</h1>
+<p class="lede">Everyone knows the ending: two new airliners flew into the ground within five months, 346 people died, and a piece of software called MCAS was blamed. What is less known is that on the day the fateful version of that software was approved, nobody lied and nobody cut a corner they could see. An engineering leader signed a fix, and a chief pilot asked that pilots not be burdened with it. Both acts were reasonable on the description of the airplane each man had. The description had stopped being true that morning. This piece is about why that was hard to see — and about what you should do with it, which is not to pick a villain.</p>
+
+<h2>Where he was standing</h2>
+<p>The 737 MAX is a re-engined 737: bigger, more efficient engines hung further forward and higher on an airframe designed in the 1960s. Boeing's whole commercial case for it is that airlines can fly it as "the same airplane" as the 737 they already have — same type rating, a short computer course for pilots, no simulator. Southwest's launch contract has a clause: if regulators require simulator training, Boeing owes about a million dollars per aircraft.</p>
+<p>The bigger engines cause a small aerodynamic problem. At high angle of attack the nacelles add lift and the nose wants to keep coming up, so the airplane doesn't meet the rule that says the pilot's pull force must keep building as you approach a stall. The fix, designed in 2012, is a control law inside an existing system: when the angle-of-attack vane reads high with the flaps up, run the horizontal stabilizer nose-down for a few seconds. It is called MCAS. As first designed it lives only in a corner of the envelope no airline pilot enters by accident — high speed, high g, the wind-up turn a certification test pilot pulls — and can move the stabilizer about six tenths of a degree.</p>
+<p>Two months into flight test, in early 2016, the airplane fails another stall-characteristics test — this time at low speed, flaps up. On Wednesday, 30 March 2016, at eight in the morning, the stability-and-control group briefs the program's leadership in a conference room at Everett. Slides: "737 MAX / Stall Characteristics – Mitigation." The mitigation is not aerodynamic; it is to widen MCAS so it also works at low speed, and to give it more authority — 2.5 degrees per activation instead of 0.6. The general manager approves. <strong>Michael Teal</strong>, Vice President and Chief Project Engineer, the man who owns the engineering, approves too.</p>
+<p>At 11:16 that same morning, the program's chief technical pilot emails the FAA group that decides what pilots must be taught. Subject: "MCAS lives in both FCCs." He asks to delete MCAS from the flight manual and the training-differences tables, because it is "completely transparent to the flight crew and only operates WAY outside of the normal operating envelope." The FAA will later agree, verbally. It understands MCAS as the 0.6-degree, high-speed function.</p>
+<p>Nothing has gone wrong. The airplane has a fix, and the pilots who will fly it need not know why.</p>
+
+<h2>Why it was not obvious</h2>
+<p>Here is what makes this a real decision and not a scandal. Almost every consideration cut both ways.</p>
+<p class="factor"><b>The fix was small — but the envelope was not.</b> On paper it is a parameter change to an existing, certified function. In effect, a function that could once only fire where no line pilot goes by accident will now fire wherever an angle-of-attack vane reads high — including seconds after takeoff. The single-vane input and the logic that lets it fire again five seconds after the crew trims against it were <em>not</em> new. They were simply carried, unexamined, into a much bigger space.</p>
+<p class="factor"><b>The safety case existed — for the old airplane.</b> The hazard assessment assumed that if MCAS ever ran uncommanded, the crew would recognise it as a runaway stabilizer — a memory-item procedure every 737 pilot has — and react in about four seconds. That figure came from FAA guidance: one second to notice, three to act. Four seconds made the failure "Hazardous", a statistical credit brought it to "Major", and Major means one sensor is enough. The same document had said since October 2015 that a slow reaction, more than ten seconds, would be catastrophic. Nobody could later find a study behind the four seconds.</p>
+<p class="factor"><b>Boeing did re-check — under the old assumptions.</b> After the change, the hazard classes were re-run in the simulator and did not move. But full authority was simulated only to the old 0.6-degree high-speed limit, never to 2.5 degrees at low speed, and repeated activation was never simulated at all; engineers and pilots "deemed" it no worse than one. "Re-checked under the old assumptions" is the accurate phrase — not "never looked at."</p>
+<p class="factor"><b>The warnings were in the building — not in the room.</b> A November 2012 simulator note: one Boeing pilot reached the cutout switches in about four seconds; the other took more than ten and called it catastrophic. A December 2015 email from an engineer who was also an FAA-authorised representative: "Are we vulnerable to single AOA sensor failures with the MCAS implementation?" Both sat in the program's own files. Teal later testified that when he approved the redesign he did not know MCAS ran on one vane, could fire repeatedly, or that the ten-second result existed. Take that at face value and the case is worse, not better: three facts in his own files never reached his signature, and the signature did not ask.</p>
+<p class="factor"><b>"Transparent" was true — of the airplane that no longer existed.</b> The chief pilot's request was reasonable for a 0.6-degree function in a corner of the envelope. It was sent the same morning the function stopped being that. Whether the two acts were coordinated the House investigators could not say; they found no evidence the pilot had been told of the redesign. Three documents now told the airplane's story — the coordination sheet with the new envelope, the safety assessment with the old one, the manual soon with nothing — and each was internally coherent.</p>
+<p>Nobody in that room was choosing to build a dangerous airplane. They were choosing not to re-ask questions that had already been answered once. That is the point.</p>
+
+<h2>The three doors</h2>
+<p>Strip it down. One thing was on Teal's desk that week: what does his signature <em>condition</em>? The mitigation is needed — without it the airplane does not meet the stall rules — so the choice is not whether to fix the stall, but what has to be re-examined before the fix ships.</p>
+
+<div class="door">
+<h3><span class="letter">A</span>Approve the fix; re-open the safety case.</h3>
+<p>Sign the mitigation, and require the safety assessment to be re-issued for the airplane you will actually ship — low-speed table, 2.5 degrees, one vane, repeat logic, and what else lights up in the cockpit when a vane fails high. Keep MCAS in the manual until that is done; tell the FAA's training group what "transparent" now covers.</p>
+<p class="gr"><b>You get:</b> the right question asked at the right configuration, on a record the regulator can see. <b>You risk:</b> weeks in a schedule counted in days, and a real chance the FAA asks for a simulator — the million-dollar clause.</p>
+</div>
+
+<div class="door">
+<h3><span class="letter">B</span>Send it back; change the design, not the paperwork.</h3>
+<p>Ask for a version that does not rest on one vane or on how fast a crew reacts: compare two sensors, fire once per event, limit the authority so the pilot's column can always hold the nose. That is roughly how the same function is built on Boeing's own KC-46 tanker.</p>
+<p class="gr"><b>You get:</b> a function whose failure does not depend on a human catching it in four seconds. <b>You risk:</b> a new control law qualified in flight test a year from certification — months, not weeks, and the "same airplane" promise under strain.</p>
+</div>
+
+<div class="door">
+<h3><span class="letter">C</span>Approve as presented.</h3>
+<p>The high-speed case was analysed and remains the critical one; the class is Major; the crew procedure exists and every 737 pilot has it. The re-check in the simulator will say the classes don't move.</p>
+<p class="gr"><b>You get:</b> the schedule, and commonality intact. <b>You risk:</b> shipping a recovery assumption nobody has tested at the configuration that will actually fly — and, as of this morning, a crew that will not be told the system exists.</p>
+</div>
+
+<h2>Do not choose. Read it again.</h2>
+<p>Most decision exercises ask you to pick. This one asks you not to — not yet.</p>
+<div class="think">
+<span class="tag">Instead</span>
+<p>Go back through the three doors and imagine the airplane in service, three years out — hundreds of them, flying for airlines you have never heard of. Now imagine one angle-of-attack vane, on one of them, reading wrong from the moment the wheels leave the ground. Ask, for each door:</p>
+<ul>
+<li>What does the crew <em>see</em>? A stick shaker from rotation, speed and altitude disagreements between the two sides, a trim wheel that starts turning by itself when the flaps come up. Do they see one problem, or three?</li>
+<li>What do they <em>know</em>? Where would they have learned the word MCAS — the manual, the differences course, a simulator? Under which door does that word exist for them at all?</li>
+<li>How many seconds do they have, and who decided that number, and against what evidence?</li>
+<li>If they trim against it and it comes back five seconds later, and again, and again — twenty times — what mental model tells them to stop trimming and reach for the cutout switches?</li>
+<li>Under Door B, what happens instead? Under Door A, what would the FAA have asked for, and would the airplane still be "the same airplane"?</li>
+</ul>
+</div>
+<p>Notice that Door C is not the choice of a reckless man. It is the choice of someone trusting an analysis that had been done — for a different airplane. Notice that Door A costs weeks and asks only that the analysis be done again for this one. Notice that the difference between them is invisible on every flight but two.</p>
+<p>That is the shape this book is trying to teach you to see: a plan that says "the operator will notice and correct it" is a safety part with a response time inside it — and it needs evidence at the configuration you actually ship, not the one that was analysed.</p>
+
+<h2>What happened</h2>
+<p>Boeing approved as presented. The safety assessment stayed at its old revision; the certification plans were not updated; the coordination sheet with the new envelope and the ten-second sentence never reached FAA certification engineers — it was not a deliverable. In August 2016 the FAA approved the short computer course, with nothing on MCAS. The airplane was certified in March 2017.</p>
+<p>On 28 October 2018 a Lion Air 737 MAX in Indonesia took off with a replacement left vane that had been mis-calibrated by about 21 degrees in a repair shop. The stick shaker ran from rotation. When the trim kept running nose-down, the captain treated it as a runaway stabilizer and cut the switches; it took three minutes and forty seconds and twelve activations, with a third pilot in the jump seat helping. They landed. The log mentioned speed and altitude disagreements — not the shaker, the procedure, or the cutout. Next morning, 29 October, flight 610 lifted off with the same vane. Over six minutes MCAS ran more than twenty times; the captain countered each until he handed over; the first officer's inputs were shorter than the nose-down runs. 189 people. Neither crew had ever read the word MCAS.</p>
+<p>The FAA's emergency directive that followed expanded the runaway procedure for erroneous angle-of-attack. On 10 March 2019 an Ethiopian Airlines MAX lost its left vane seconds after liftoff from Addis Ababa. Stick shaker; speed disagree; then nine seconds of nose-down trim. The crew — who had the directive — used the cutout. Out of trim at high speed with the electric trim dead, the first officer could not turn the manual wheel: about forty revolutions needed, at 340 knots, against column forces calculated above ninety pounds. Thirty-two seconds before impact the switches went back on; five seconds later MCAS ran again. 157 people. The American and Ethiopian investigators still disagree in print about how the vane failed and how much the crew's thrust and trim handling contributed.</p>
+<p>The fleet was grounded three days later. It returned in November 2020 with MCAS reading both vanes, firing once per event, and limited so that the column alone can hold the airplane level — Door B, made law.</p>
+<p>Three flights met the same failure. One recovered in three minutes forty with a third pair of eyes. One held the airplane for six minutes and lost it at handover. One ran the procedure and could not physically finish it. None of them took four seconds.</p>
+
+<h2>The thing to take with you</h2>
+<p>You will never certify an airliner. But you own plans that say, somewhere in them, "the user will notice and correct it" — a monitoring alert, a review step, a manual override, a person who is supposed to catch the bad case. Each of those is a safety component with a response time inside it. The question this case leaves you with belongs on the change request, for the version you are shipping now and not the one that was analysed:</p>
+<p class="coda">What cue does the operator get, how many seconds do they have, and where did they learn what the cue means?</p>
+<p>If any of the three answers is inherited from an earlier version — if the assumption was tested once, for a smaller thing, and carried forward — you are standing where the program stood on 30 March 2016. Ask again.</p>
+
+<div class="receipts">
+<p><span class="badge">Receipts</span> Every fact above is sourced in <a href="03-boeing-737-max.full.html">the full chapter</a> — the House Transportation Committee's final report, two DOT Inspector General reports, the Joint Authorities Technical Review, the FAA's return-to-service summary, the NTSB's safety recommendation report, and the Indonesian and Ethiopian accident reports with the NTSB's dissent — with page-and-line locators into the archived documents listed in the <a href="https://github.com/AnthonyKot/book14/blob/main/sources/MANIFEST.md">source manifest</a>. Boeing's internal documents are known only as quoted in those reports and are cited that way. Disputed points (0.55° vs 0.6°; the vane failure on ET302; crew performance) are held open there.</p>
+</div>
+
+<nav class="chapter-nav">
+  <a href="../index.html">← All cases</a>
+  <a href="03-boeing-737-max.full.html">Full chapter with receipts →</a>
+</nav>
+</main>
+<footer class="site-footer"><div class="wrap"><p>Fourteenth in a series built the same way. Corrections welcome — <a href="https://github.com/AnthonyKot/book14">github.com/AnthonyKot/book14</a>.</p></div></footer>
+</body>
+</html>
