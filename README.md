@@ -17,7 +17,7 @@ who inherited the risk.
 | 5 | [Bay of Pigs](dossiers/05-bay-of-pigs.md) | Continue after a prerequisite has been removed? | [Draft written](chapters/05-bay-of-pigs.md); Cuban source balance remains |
 | 6 | [Triangle fire](dossiers/06-triangle.md) | May a control's release depend on a key or a person when it stands on someone else’s last exit? | [Fable draft](chapters/06-triangle.fable.md), four reviews ([Opus](06-triangle-opus-review.md), [grok](06-triangle-grok-review.md), [agy](06-triangle-agy-review.md), [codex](06-triangle-codex-review.md)), [canonical draft](chapters/06-triangle.md) |
 | 7 | [Scott versus Amundsen](dossiers/07-scott-amundsen.md) | What lies beneath the terminal stage? | [Fable draft](chapters/07-scott-amundsen.fable.md), [Opus review](07-scott-amundsen-opus-review.md), [canonical draft](chapters/07-scott-amundsen.md) |
-| 8 | [Iraq, 2003](dossiers/08-iraq-2003.md) | May you abolish an institution before its replacement — and the mechanism to pay the people you dismiss — exists? | Narrowed to CPA Order No. 2, 23 May 2003 (role: Bremer); [dossier locked 2026-08-18](dossiers/08-iraq-2003.md), corpus hashed, prose next |
+| 8 | [Iraq, 2003](dossiers/08-iraq-2003.md) | May you abolish an institution before its replacement — and the mechanism to pay the people you dismiss — exists? | [Fable draft](chapters/08-iraq-2003.fable.md), four reviews ([Opus](08-iraq-2003-opus-review.md), [grok](08-iraq-2003-grok-review.md), [agy](08-iraq-2003-agy-review.md), [codex](08-iraq-2003-codex-review.md)), [canonical draft](chapters/08-iraq-2003.md) |
 
 ## Read first
 

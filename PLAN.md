@@ -43,7 +43,11 @@ Recommended drafting order is methodological, not chronological:
    No. 2, "Dissolution of Entities," 19–23 May 2003, seat L. Paul Bremer. Nine sources
    archived and hashed, including the declassified Bremer memorandum of 19 May that names the
    risk four days before the signature. Codex's three kill conditions tested and not met.
-   Dossier `READY FOR PROSE`; draft not yet begun.
+   Dossier `READY FOR PROSE`. **Drafted and reviewed 2026-08-18:** fable draft → four
+   adversarial reviews (all REVISE; Opus found that Tab A as attached on 19 May carried no
+   colonel bar — the exclusion lived in Tab B and was written into the order between 20 and
+   23 May) → canonical `chapters/08-iraq-2003.md` ("Colonel and above", ~3,390 words body,
+   0 CHECKs, ~190 over the band; ownership dispute and ratification rival kept open).
 
 ## Phase 4 — selection
 
