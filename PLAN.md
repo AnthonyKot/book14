@@ -38,7 +38,12 @@ Recommended drafting order is methodological, not chronological:
    ten official reports archived and hashed; decision locked on the 30 March 2016 approval of
    MCAS Rev. D as presented (role: chief project engineer); draft → four adversarial reviews →
    canonical `chapters/03-boeing-737-max.md` (~3,190 words, disputes kept open).
-8. Iraq 2003 — tests whether the method survives a sprawling, contested case.
+8. Iraq 2003 — tests whether the method survives a sprawling, contested case. **Narrowed and
+   locked 2026-08-18:** three-model narrowing pass did not converge; adjudicated to CPA Order
+   No. 2, "Dissolution of Entities," 19–23 May 2003, seat L. Paul Bremer. Nine sources
+   archived and hashed, including the declassified Bremer memorandum of 19 May that names the
+   risk four days before the signature. Codex's three kill conditions tested and not met.
+   Dossier `READY FOR PROSE`; draft not yet begun.
 
 ## Phase 4 — selection
 

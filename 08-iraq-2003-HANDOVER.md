@@ -1,6 +1,19 @@
 # Pilot 08 — Iraq 2003: handover (2026-08-18)
 
+> **UPDATE 2026-08-18, later the same day — steps 1 to 3 are done.** The corpus is converted,
+> hashed and documented in `sources/MANIFEST.md` §08 with the locator convention; both missing
+> sources were recovered (*On Point II* via a Wayback capture of the Army University Press PDF,
+> identity verified by grep; the House Oversight hearing of 6 Feb 2007 from govinfo,
+> CHRG-110hhrg36545); and `dossiers/08-iraq-2003.md` is rewritten as the lock and marked
+> `READY FOR PROSE`. Three corrections to what is written below: the *Hard Lessons* file in the
+> corpus was a **pre-publication draft** watermarked "NOT FOR FURTHER DISTRIBUTION" and has been
+> replaced with the published February 2009 edition (DTIC ADA493696); the govinfo scan of Order
+> No. 2 now has a tesseract OCR sibling, and the CASI text-layer copy was verified clause by
+> clause against it; and the Order No. 2 material in *On Point II* is in **chapter 3**, printed
+> pp. 92–99, not chapter 5. The next step is step 4 — the `.fable.md` draft.
+
 Status: **narrowing done, decision NOT yet locked.** Do not draft prose until the lock is written.
+*(Superseded by the update above: the lock is written.)*
 
 ## Where we are
 

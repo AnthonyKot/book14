@@ -222,13 +222,154 @@ PDF page, text-file line (`House p. 95 / l. 5828`; `KNKT p. 210 / l. 8012`).
 
 ## 08 — Iraq, 2003
 
-- File: `08-iraq-2003/iraq-inquiry-volume-1.pdf`
+Corpus completed **2026-08-18** for the CPA Order No. 2 decision lock. Every PDF has a
+`.txt` sibling made with `pdftotext -layout`, except the govinfo scan of Order No. 2, which
+carries no text layer and was OCRed instead (see below). Checksums are SHA-256 of both the
+PDF and its derived text.
+
+**Locator convention for chapter receipts in this case:** short source tag, PDF page, then
+text-file line — `Chilcot p. 34 / l. 1923`; `Bremer p. 2 / l. 57`; `OnPoint p. 115 / l. 5518`.
+PDF page numbers, never the printed folio: `pdftotext` emits a form feed at the end of every
+page, so the page of a given line is *(count of `\f` in the file before that line) + 1*, and a
+file's page count equals its total `\f` count. The printed folios drift from the PDF pages by a
+fixed offset in two files — *Hard Lessons* PDF p. 96 is printed p. 75 (+21, the DTIC cover
+forms), *On Point II* PDF p. 115 is printed p. 95 (+20, the front matter). Quote the PDF page.
+
+Tags: `Order2` (the signed order), `Bremer` (the 19 May memorandum), `Chilcot`, `SIGIR`,
+`OnPoint`, `Hearing`, `Order22`.
+
+- File: `08-iraq-2003/cpa-order-02.pdf` — *Coalition Provisional Authority Order Number 2:
+  Dissolution of Entities*, signed by L. Paul Bremer, 23 May 2003, 5 pp. Tag `Order2`. URL
+  <https://www.govinfo.gov/content/pkg/GOVPUB-S-PURL-LPS45365/pdf/GOVPUB-S-PURL-LPS45365.pdf>.
+  SHA-256 `5fed83c2ebb76f683caa66f5529cb2279f9e70b6cedb54becf7516448d8b57ad`. This is the
+  authoritative copy — a scan of the signed original, showing Bremer's signature under
+  Section 7. It has **no text layer**; `pdftotext` returns nothing. Derived text
+  `cpa-order-02-ocr.txt` (tesseract, 300 dpi, `--psm 6`; 5 pp, 143 lines); SHA-256
+  `e2a0f4542d7340c95566e209f3fc03edf1a399cce064f65c2ba0ce2047e6f114`. OCR: never quote from it
+  without checking the page image. Reuse: CPA instrument reproduced by GPO; public domain in
+  the United States.
+- File: `08-iraq-2003/cpa-order-02-casi.pdf` — the same order, a clean copy with a text layer,
+  5 pp. SHA-256 `7f531aef39f0f77ee4b8ff6e875a478a54dc01d74d6fde797f587858ac400b9e`; derived
+  text `cpa-order-02-casi.txt` (5 pp, 185 lines), SHA-256
+  `8dded8df21cfbe7091d55e3c891f2f2363ea165c554bfc61259f5338d89af710`. **Use this file for
+  locators; cite the govinfo scan as the source.** Provenance caveat: the download URL was not
+  recorded at the time (a CASI/Cambridge mirror). It was therefore verified on 2026-08-18
+  against the OCR of the govinfo scan — section structure, all seven sections, the Annex and
+  the substance of every clause agree. Treat it as a verified transcription, not as an
+  independent authority.
+  - Two traps here, both checked. (i) The **CPA's own posting** of the order,
+    `20030823_CPAORD_2_Dissolution_of_Entities_with_Annex_A.pdf` on iraqcoalition.org
+    (recoverable through the Wayback Machine, and the copy *On Point II* footnote 2 of ch. 3
+    cites), is **defective**: it misspells its own title, and it drops Sections 4 to 7 and the
+    signature block, running straight from Section 3 to the Annex. Do not use it. (ii) The
+    Order carries the date 23 May 2003 on every page footer (`CPA/ORD/23 May 2003/02`); the
+    23 August 2003 date in some filenames and in NSA briefing book 418 is the reissue with
+    Annex A.
+  - The clause the chapter turns on is **Section 3(6)**: any person holding the rank of
+    Colonel or above under the former regime "will be deemed a Senior Party Member," and no
+    Senior Party Member receives a termination payment or a pension (casi p. 2 / l. 77–84).
+    The popular "nobody was paid" account is wrong — Sections 3(4) and 3(5) provide both — and
+    so is the sanitised "everybody kept their pension" account. Note a citation discrepancy:
+    Chilcot's footnote 121 cites the New Iraqi Corps text as "Section 4"; in the signed order
+    it is Section 5.
+- File: `08-iraq-2003/bremer-memo-19may2003.pdf` — L. Paul Bremer, memorandum for Secretary
+  Rumsfeld, *Dissolution of the Ministry of Defense and Related Entities*, 19 May 2003, with
+  Tab A (draft order, dated 20 May) and Tab B (outline of payment policy); declassified 9
+  January 2009, 11 pp. Tag `Bremer`. URL <https://library.rumsfeld.com/doclib/sp/340/2003-05-19%20from%20Bremer%20re%20Dissolution%20of%20the%20Ministry%20of%20Defense%20and%20related%20Entities.pdf>.
+  SHA-256 `16e97d8bdc6e865aa7e303de9838d8ed3433858656d36b73afc6f6685e38b5ff`; derived text
+  `bremer-memo-19may2003.txt` (11 pp, 473 lines), SHA-256
+  `672d62014addadff3ef165bb2fd98f7def49df8f0b181d9a4fef3452b893614b`. This is the hinge
+  document. Two cautions. (i) **Host:** a declassified US Defense record served from Donald
+  Rumsfeld's personal library, not from an official government archive; the declassification
+  stamp is legible on the scan, but the host is not authoritative and the document should be
+  described as such. (ii) **Text quality:** the scan OCRs badly — "Secretary Rumafeld",
+  "de-Ba'athi±Ication", "in principal". Every quotation must be read off the page image, not
+  the text file. Reuse: US government work, public domain in the United States; the library's
+  presentation is not.
+- File: `08-iraq-2003/chilcot-section-12-1.pdf` — *The Report of the Iraq Inquiry*, Section
+  12.1, "Security Sector Reform", 350 pp. Tag `Chilcot`; **the file to cite**. URL (UK
+  Government Web Archive, the live iraqinquiry.org.uk path now 404s)
+  <https://webarchive.nationalarchives.gov.uk/ukgwa/20171123122743mp_/http://www.iraqinquiry.org.uk/media/246616/the-report-of-the-iraq-inquiry_section-121.pdf>.
+  SHA-256 `7fe4b1038feddbbdc6a64dae0abfbc86303d03cda2c523cc699fa9dc88965353`; derived text
+  `chilcot-section-12-1.txt` (350 pp, 20,675 lines), SHA-256
+  `ede8f19e79306bd065d5750e03a4f596ef4af1de646dbefa3257746965276215`. Order No. 2 runs at
+  paragraphs 147–180, PDF pp. 32–36. Reuse: Open Government Licence v3.0 except where
+  otherwise stated; third-party material separately.
+- File: `08-iraq-2003/chilcot-volume-10.pdf` — *The Report of the Iraq Inquiry*, Volume X,
+  586 pp, the volume containing Section 12.1 (at printed p. 63) and Section 12.2. URL
+  <https://assets.publishing.service.gov.uk/media/5a816e5340f0b62305b8eea8/The_Report_of_the_Iraq_Inquiry_-_Volume_X.pdf>.
+  SHA-256 `c4caf9f561d9cd9ecec54a70e5a51696a51adda08b52fc0f5fae4137e9ce5489`; derived text
+  `chilcot-volume-10.txt` (586 pp, 36,334 lines), SHA-256
+  `636fca39ef6779cadd2ffba897c989602ab79336317308982328cf2e35534713`. Held for context and for
+  Section 12.2's conclusions; cite the standalone section file, not this one, so that locators
+  stay stable. Reuse as above.
+- File: `08-iraq-2003/sigir-hard-lessons.pdf` — Stuart W. Bowen Jr., Office of the Special
+  Inspector General for Iraq Reconstruction, *Hard Lessons: The Iraq Reconstruction
+  Experience*, February 2009, 379 pp in this copy. Tag `SIGIR`. Copy taken from DTIC
+  ADA493696 via the Internet Archive,
+  <https://archive.org/download/DTIC_ADA493696/DTIC_ADA493696.pdf>. SHA-256
+  `ecdbbe519eab9e7e09ae60062d9a7dec1db54eb3495ef665dd9b28f607fc7599`; derived text
+  `sigir-hard-lessons.txt` (379 pp, 15,261 lines), SHA-256
+  `4cd1ee4d77cd8582edcc35c56d404fc339d843b7c6abf718e16e7af11d47e98d`. The DTIC report
+  documentation forms occupy the first three PDF pages, so PDF page = printed page + 21.
+  **Trap, found and closed 2026-08-18:** the archive.org item titled "Hard Lessons: The Iraq
+  Reconstruction Experience" (identifier `HardLessonsTheIraqReconstructionExperience`, file
+  `IraqReconstruction.pdf`, 7,222,888 bytes) is a **pre-publication draft**, stamped "FOR
+  OFFICIAL USE ONLY / DRAFT DOCUMENT – NOT FOR FURTHER DISTRIBUTION" on all 445 of its text
+  pages, and its wording differs materially from the published book. It was in this corpus
+  until 2026-08-18 and has been deleted. Never cite it. Reuse: US federal report, public
+  domain in the United States; the SIGIR interviews quoted in it are the interviewer's record,
+  cite them as such.
+- File: `08-iraq-2003/onpoint-ii.pdf` — Donald P. Wright and Timothy R. Reese, Contemporary
+  Operations Study Team, Combat Studies Institute, *On Point II: Transition to the New
+  Campaign — The United States Army in Operation IRAQI FREEDOM, May 2003 – January 2005*
+  (2008), 720 pp. Tag `OnPoint`. armyupress.army.mil returns 403 to scripted requests and DTIC
+  serves HTML, so the file came from the Wayback Machine capture of the Army University Press
+  PDF: <https://web.archive.org/web/20250528135510id_/https://www.armyupress.army.mil/Portals/7/combat-studies-institute/csi-books/OnPointII.pdf>.
+  SHA-256 `4abb9bc6ac5ad73a812726457c96f559a471c8ae53819b3803bd86813acfce0b`; derived text
+  `onpoint-ii.txt` (720 pp, 34,591 lines), SHA-256
+  `47d40a6e314c24a47ad7fc0b9f4271119eab299c2334f298c9c7a1c47eb6264b`. Identity verified after
+  download by grepping for "dissolution", "Dissolution of Entities" and "Paul Hughes" — an
+  earlier archive.org attempt had returned an unrelated document, and captures of about 892 kB
+  at the same URL are not the book. Note against the narrowing brief: the Order No. 2 material
+  is in **chapter 3**, printed pp. 92–99 (PDF pp. 112–119), not chapter 5. Reuse: US Army
+  official history, public domain in the United States; the Contemporary Operations Study Team
+  interviews are the historians' record and must be cited as interviews.
+- File: `08-iraq-2003/house-oversight-hearing-6feb2007.pdf` — *The Impact of CPA
+  Decisionmaking on Iraq Reconstruction*, hearing before the House Committee on Oversight and
+  Government Reform, 110th Congress, 1st session, 6 February 2007, Serial No. 110-10, 225 pp.
+  Tag `Hearing`. URL
+  <https://www.govinfo.gov/content/pkg/CHRG-110hhrg36545/pdf/CHRG-110hhrg36545.pdf>. SHA-256
+  `87b634ef96b0e1fde47c1659dd6194bd93f117f7ee88b0e201160b860d3082dc`; derived text
+  `house-oversight-hearing-6feb2007.txt` (225 pp, 6,071 lines), SHA-256
+  `9c977d6bd0d0dfc804339e901dbc15f7a7b9d6abe91e84d46650e2b167719e88`. Witnesses: Bremer, Bowen
+  and David Oliver. The exchange the lock relies on is Clay–Bremer at PDF pp. 185–186 /
+  l. 3720–3768. Reuse: public domain. This is sworn retrospective testimony given nearly four
+  years after the fact — evidence of what Bremer later claimed, not of what he knew in May
+  2003.
+- File: `08-iraq-2003/cpa-order-22.pdf` — *Coalition Provisional Authority Order Number 22:
+  Creation of a New Iraqi Army*, 7 August 2003, 10 pp. Tag `Order22`; aftermath only. URL
+  <https://www.govinfo.gov/content/pkg/GOVPUB-S-PURL-LPS46856/pdf/GOVPUB-S-PURL-LPS46856.pdf>.
+  SHA-256 `3a904e39bfc36197ff5b0c3fabe131224e4a1a63947a7b9acdd9a4c4840ee204`; derived text
+  `cpa-order-22.txt` (10 pp, 453 lines), SHA-256
+  `56dff1886b1915a91b1ef1a9eaec60b3aed290e9819a11b8ef5889282cf1e9f9`. Public domain.
+- File: `08-iraq-2003/iraq-inquiry-volume-1.pdf` (downloaded 2026-08-13)
 - Title: *The Report of the Iraq Inquiry*, Volume I
 - Issuer: Iraq Inquiry / UK Cabinet Office
 - URL: <https://assets.publishing.service.gov.uk/media/5a809f9d40f0b62302694943/The_Report_of_the_Iraq_Inquiry_-_Volume_I.pdf>
-- SHA-256: `99f3d6d954a4e9785006e32c3996f62c0a9bd3d04a84b7e1b54a44b44f1612f7`
+- SHA-256: `99f3d6d954a4e9785006e32c3996f62c0a9bd3d04a84b7e1b54a44b44f1612f7`; derived text
+  `iraq-inquiry-volume-1.txt` (530 pp, 31,099 lines), SHA-256
+  `7c17e29ebd3268d453ca824c86487ec93d1e62b4973e002e1e63de7009b4c52d`
 - Access: downloadable PDF
 - Reuse: Open Government Licence v3.0 except where otherwise stated; third-party material
   must be checked separately.
-- Gap: the post-conflict planning material is in later volumes; download only after the
-  selected decision point is narrowed.
+- Retained from the pre-invasion scoping pass. The 2026-08-13 gap note ("the post-conflict
+  planning material is in later volumes") is closed: the decision was narrowed to CPA Order
+  No. 2 and the material sits in Volume X, Section 12.1, archived above.
+
+**Known gaps at lock.** No Iraqi-authored primary source is in this corpus; Iraqi voices reach
+it only through Chilcot, SIGIR and the US Army historians, and the dossier says so. NSPD-24 is
+still classified, so the formal scope of Bremer's authority cannot be read directly. The
+Slocombe–Bremer memorandum of 13 May survives only as the leaked copy Chilcot cites to BBC
+News, and is not archived here. RAND's *After Saddam*, the source of the "decided in
+Washington" claim, is known only as Chilcot quotes it.
