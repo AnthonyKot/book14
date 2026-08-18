@@ -2,7 +2,7 @@
 
 Working subtitle: **The decision was made upstairs. The danger arrived downstairs.**
 
-Book 14 is a decision-forcing historical casebook. It reconstructs what could reasonably
+Book 14 is a decision-forcing historical casebook. Read it at **<https://anthonykot.github.io/book14/>** (static HTML in this repo; `chapters/*.full.html` are built from the canonical Markdown by `scripts/build-full.sh`, reader's-cut pages are hand-authored). It reconstructs what could reasonably
 have been known before commitment, asks the reader to choose, and then follows the people
 who inherited the risk.
 
